@@ -1,4 +1,10 @@
-Exercicio 1
-asdadas
+from fasthmtl.common import fast_app, serve
 
-moimjklfdafsafdsfas
+app, routes = fast_app()
+
+@route('/')
+def homepage():
+    return '<h1> Bem vindo ao site do Kogy veyr</h1>'
+
+
+serve()
