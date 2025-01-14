@@ -1,6 +1,85 @@
 import { useState } from 'react';
 import { Linkedin, Github, Mail, X } from 'lucide-react';
 
+
+const PageLayout = ({ children }) => {
+    const [isLeaving, setIsLeaving] = useState(false);
+  
+    // Simula navegação
+    const handleNavigation = (e) => {
+      e.preventDefault();
+      setIsLeaving(true);
+      // Simula tempo de transição antes da navegação real
+      setTimeout(() => {
+        console.log("Navegando...");
+      }, 500);
+    };
+  
+    return (
+      <div className={`min-h-screen bg-gray-50 transition-opacity duration-500 ease-in-out
+        ${isLeaving ? 'opacity-0' : 'opacity-100'}`}>
+        <nav className="bg-white shadow-md">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="flex items-center justify-between h-16">
+              <div className="flex items-center space-x-4">
+                {/* Foto de perfil */}
+                <div className="w-12 h-12 rounded-full overflow-hidden">
+                  <img
+                    src="/api/placeholder/48/48"
+                    alt="Profile"
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                {/* Título */}
+                <h1 className="text-2xl font-bold text-gray-800">
+                  Meu Site
+                </h1>
+              </div>
+              
+              {/* Menu de navegação */}
+              <div className="flex space-x-4">
+                <a href="/" onClick={handleNavigation} className="text-gray-600 hover:text-gray-900">Home</a>
+                <a href="/sobre" onClick={handleNavigation} className="text-gray-600 hover:text-gray-900">Sobre</a>
+                <a href="/contato" onClick={handleNavigation} className="text-gray-600 hover:text-gray-900">Contato</a>
+              </div>
+            </div>
+          </div>
+        </nav>
+  
+        <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+          <div className="opacity-0 animate-fade-in">
+            {children}
+          </div>
+        </main>
+      </div>
+    );
+  };
+  
+  // Definindo as animações
+  const styles = {
+    '.animate-fade-in': {
+      animation: 'fadeIn 0.8s ease-in forwards'
+    },
+    '@keyframes fadeIn': {
+      '0%': { opacity: '0' },
+      '100%': { opacity: '1' }
+    }
+  };
+  
+  // Adicionando os estilos ao head do documento
+  const styleSheet = document.createElement('style');
+  styleSheet.textContent = Object.entries(styles).map(([selector, rules]) => {
+    const cssRules = Object.entries(rules).map(([key, value]) => {
+      if (typeof value === 'object') {
+        const nestedRules = Object.entries(value).map(([k, v]) => `${k} { ${v} }`).join(' ');
+        return `${key} { ${nestedRules} }`;
+      }
+      return `${key}: ${value};`;
+    }).join(' ');
+    return `${selector} { ${cssRules} }`;
+  }).join('\n');
+  document.head.appendChild(styleSheet);
+ 
 const Gallery = () => {
   const [expandedId, setExpandedId] = useState(null);
 
@@ -27,23 +106,32 @@ const Gallery = () => {
       id: 1,
       title: "Slide",
       description: "Texto sobre modelo de slides",
-      color: "bg-emerald-600",
-      mediaUrl: "C:\Users\Gamer\Pictures\Screenshots\slide.png",
+      color: "bg-[#F2496B]", // Cor atualizada
+      mediaUrl: "C:\Users\Gamer\Desktop\GitHub\data-analyst-learning\python_exercises\exercise_files\Sites - Templates\meu-site\site-treinamento\public\Info3.png",
       mediaType: "image"
     },
     {
-      id: 2,
-      title: "Infográfico",
-      description: "Texto sobre modelo de infográficos",
-      color: "bg-blue-600",
-      mediaUrl: "C:\Users\Gamer\Pictures\Screenshots\infogra.png",
-      mediaType: "image"
+        
+            id: 2,
+            title: "Infográfico",
+            description: "Texto sobre modelo de infográficos",
+            color: "bg-[#FF809F]", // Cor atualizada
+            media: [
+              {
+                mediaUrl: "C:\\Users\\Gamer\\Desktop\\GitHub\\data-analyst-learning\\python_exercises\\exercise_files\\Sites - Templates\\meu-site\\site-treinamento\\public\\Info3.png",
+                mediaType: "image"
+              },
+              {
+                mediaUrl: "C:\\Users\\Gamer\\Desktop\\GitHub\\data-analyst-learning\\python_exercises\\exercise_files\\Sites - Templates\\meu-site\\site-treinamento\\public\\Info2.png",
+                mediaType: "image"
+              }
+            ]
     },
     {
       id: 3,
       title: "Mapa Mental",
       description: "Texto sobre modelo de Mapa Mental",
-      color: "bg-purple-600",
+      color: "bg-[#590932]", // Cor atualizada
       mediaUrl: "/api/placeholder/800/600",
       mediaType: "gif"
     },
@@ -51,7 +139,7 @@ const Gallery = () => {
       id: 4,
       title: "One Pager",
       description: "Texto sobre modelo de One Pager",
-      color: "bg-red-600",
+      color: "bg-[#A880FF]", // Cor atualizada
       mediaUrl: "/api/placeholder/800/600",
       mediaType: "image"
     },
@@ -59,7 +147,7 @@ const Gallery = () => {
       id: 5,
       title: "Dashboard",
       description: "Texto sobre modelo de Dashboard",
-      color: "bg-yellow-600",
+      color: "bg-[#DCFF79]", // Cor atualizada
       mediaUrl: "/api/placeholder/800/600",
       mediaType: "video"
     },
@@ -130,7 +218,7 @@ const Gallery = () => {
           ease-in-out
           ${isExpanded ? 'scale-100' : 'transform'}
         `}>
-          <div className="flex justify-between items-start mb-4">
+  <div className="flex justify-between items-start mb-4">
             <h2 className={`
               text-2xl 
               font-bold 
@@ -139,18 +227,18 @@ const Gallery = () => {
               duration-700
               ${isExpanded ? 'text-3xl' : ''}
             `}>{item.title}</h2>
-            {isExpanded && (
-              <button 
-                onClick={(e) => {
-                  e.stopPropagation();
-                  setExpandedId(null);
-                }}
-                className="text-white hover:text-gray-200 transition-colors duration-300"
-              >
-                <X size={24} />
-              </button>
-            )}
-          </div>
+    {isExpanded && (
+      <button 
+        onClick={(e) => {
+          e.stopPropagation();
+          setExpandedId(null);
+        }}
+        className="text-white hover:text-gray-200 transition-colors duration-300"
+      >
+        <X size={24} />
+      </button>
+    )}
+  </div>
           
           <div className={`
             transition-all 
@@ -161,21 +249,21 @@ const Gallery = () => {
               : 'opacity-90 max-h-20 transform translate-y-0'
             }
           `}>
-            {isExpanded ? (
-              <div className="space-y-4 animate-fadeIn">
-                <div className="transform transition-all duration-700 ease-in-out">
-                  {renderMedia(item)}
-                </div>
-                <p className="text-white text-lg mt-4 leading-relaxed animate-slideUp">
-                  {item.description}
-                </p>
-              </div>
-            ) : (
-              <p className="text-white opacity-90 line-clamp-2">
-                {item.description}
-              </p>
-            )}
-          </div>
+    {isExpanded ? (
+      <div className="space-y-4 animate-fadeIn">
+        <div className="transform transition-all duration-700 ease-in-out">
+          {renderMedia(item)}
+        </div>
+        <p className="text-white text-lg mt-4 leading-relaxed animate-slideUp">
+          {item.description}
+        </p>
+      </div>
+    ) : (
+      <p className="text-white opacity-90 line-clamp-2">
+        {item.description}
+      </p>
+    )}
+  </div>
         </div>
       </div>
     );

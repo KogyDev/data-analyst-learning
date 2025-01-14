@@ -28,7 +28,7 @@ const Gallery = () => {
       title: "Slide",
       description: "Texto sobre modelo de slides",
       color: "bg-emerald-600",
-      mediaUrl: "/api/placeholder/800/600",
+      mediaUrl: "C:\Users\Gamer\Pictures\Screenshots\slide.png",
       mediaType: "image"
     },
     {
@@ -36,7 +36,7 @@ const Gallery = () => {
       title: "Infográfico",
       description: "Texto sobre modelo de infográficos",
       color: "bg-blue-600",
-      mediaUrl: "/api/placeholder/800/600",
+      mediaUrl: "C:\Users\Gamer\Pictures\Screenshots\infogra.png",
       mediaType: "image"
     },
     {
@@ -201,8 +201,8 @@ const Gallery = () => {
 
       {/* Header */}
       <header className="text-center mb-8 pt-16">
-        <h1 className="text-4xl font-bold text-gray-800 mb-2">Galeria Interativa</h1>
-        <p className="text-gray-600">Clique nos cards para expandir</p>
+        <h1 className="text-4xl font-bold text-gray-800 mb-2">Matheus Cornedi</h1>
+        <p className="text-gray-600">Algumas amostras de materiais já criados editados por mim</p>
       </header>
 
       {/* Grid de Cards */}
@@ -242,3 +242,4 @@ const Gallery = () => {
 };
 
 export default Gallery;
+
