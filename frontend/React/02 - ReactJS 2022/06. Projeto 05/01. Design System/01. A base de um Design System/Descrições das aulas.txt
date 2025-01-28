@@ -1,0 +1,128 @@
+####################################################################################################
+02. O que é um Design System: 
+   Nessa primeira aula do módulo, vamos entender o que são Design Systems e porque eles são tão utilizados.
+
+####################################################################################################
+03. Do Figma ao código: 
+   Nessa aulas vamos ver como podemos entender e detalhes, através do Figma, quais componentes nós vamos colocar dentro do Design System.
+
+####################################################################################################
+05. Criando pacote de tokens: 
+   [Commit: A base de um Design System - Criando pacote de tokens](https://github.com/rocketseat-education/05-design-system/commit/56ea518fc58fdd87c05855351581d80ce269b307)
+
+```ts
+// colors.ts
+export const colors = {
+  white: '#FFF',
+  black: '#000',
+
+  gray100: '#E1E1E6',
+  gray200: '#A9A9B2',
+  gray400: '#7C7C8A',
+  gray500: '#505059',
+  gray600: '#323238',
+  gray700: '#29292E',
+  gray800: '#202024',
+  gray900: '#121214',
+
+  ignite300: '#00B37E',
+  ignite500: '#00875F',
+  ignite700: '#015F43',
+  ignite900: '#00291D',
+}
+```
+
+Agora vamos entender como podemos criar um pacote de tokens, que são como variáveis do nosso Design System, que serão utilizados nas nossas aplicação.
+
+####################################################################################################
+06. Configurando tokens: 
+   [Commit: A base de um Design System - Configurando tokens](https://github.com/rocketseat-education/05-design-system/commit/4d9e58f0fe153adcb827df5a2c1f08a9b927f133)
+
+Nessa aula nós vamos continuar configurando os tokens do nosso Design System, que serão os tokens utilizados nas nossas aplicações.
+
+####################################################################################################
+08. Build do pacote com TSUP: 
+   Agora vamos entender o que é o TSUP e como configurar ele para converter nosso código de TS para JS.
+
+####################################################################################################
+09. Configurando Monorepo: 
+   [Commit: A base de um Design System - Configurando Monorepo](https://github.com/rocketseat-education/05-design-system/commit/8ab1d6f76b66d834f652cababada2650bcfb6b78)
+
+Nessa aula nós vamos conhecer os Monorepos, e como configurar essa estrutura no nosso projeto.
+
+####################################################################################################
+10. Configuração do TypeScript: 
+   [Commit: A base de um Design System - Configuração do TypeScript](https://github.com/rocketseat-education/05-design-system/commit/1d0d53b72df573e8dce6a4989be401f71094c704)
+
+Vamos agora criar um pacote para a configuração do TypeScript, que será compartilhada entre vários pacotes do nosso monorepo.
+
+####################################################################################################
+11. Configuração do ESLint: 
+   [Commit: A base de um Design System - Configuração do ESLint](https://github.com/rocketseat-education/05-design-system/commit/6ac5ed25944f332976e3623d8f9d959edc4c0ff6)
+
+Nessa aula nós vamos configurar um pacote que irá conter todas as configurações do ESLint que serão usadas no nosso monorepo.
+
+####################################################################################################
+02. O que é um Design System: 
+   Nessa primeira aula do módulo, vamos entender o que são Design Systems e porque eles são tão utilizados.
+
+####################################################################################################
+03. Do Figma ao código: 
+   Nessa aulas vamos ver como podemos entender e detalhes, através do Figma, quais componentes nós vamos colocar dentro do Design System.
+
+####################################################################################################
+05. Criando pacote de tokens: 
+   [Commit: A base de um Design System - Criando pacote de tokens](https://github.com/rocketseat-education/05-design-system/commit/56ea518fc58fdd87c05855351581d80ce269b307)
+
+```ts
+// colors.ts
+export const colors = {
+  white: '#FFF',
+  black: '#000',
+
+  gray100: '#E1E1E6',
+  gray200: '#A9A9B2',
+  gray400: '#7C7C8A',
+  gray500: '#505059',
+  gray600: '#323238',
+  gray700: '#29292E',
+  gray800: '#202024',
+  gray900: '#121214',
+
+  ignite300: '#00B37E',
+  ignite500: '#00875F',
+  ignite700: '#015F43',
+  ignite900: '#00291D',
+}
+```
+
+Agora vamos entender como podemos criar um pacote de tokens, que são como variáveis do nosso Design System, que serão utilizados nas nossas aplicação.
+
+####################################################################################################
+06. Configurando tokens: 
+   [Commit: A base de um Design System - Configurando tokens](https://github.com/rocketseat-education/05-design-system/commit/4d9e58f0fe153adcb827df5a2c1f08a9b927f133)
+
+Nessa aula nós vamos continuar configurando os tokens do nosso Design System, que serão os tokens utilizados nas nossas aplicações.
+
+####################################################################################################
+08. Build do pacote com TSUP: 
+   Agora vamos entender o que é o TSUP e como configurar ele para converter nosso código de TS para JS.
+
+####################################################################################################
+09. Configurando Monorepo: 
+   [Commit: A base de um Design System - Configurando Monorepo](https://github.com/rocketseat-education/05-design-system/commit/8ab1d6f76b66d834f652cababada2650bcfb6b78)
+
+Nessa aula nós vamos conhecer os Monorepos, e como configurar essa estrutura no nosso projeto.
+
+####################################################################################################
+10. Configuração do TypeScript: 
+   [Commit: A base de um Design System - Configuração do TypeScript](https://github.com/rocketseat-education/05-design-system/commit/1d0d53b72df573e8dce6a4989be401f71094c704)
+
+Vamos agora criar um pacote para a configuração do TypeScript, que será compartilhada entre vários pacotes do nosso monorepo.
+
+####################################################################################################
+11. Configuração do ESLint: 
+   [Commit: A base de um Design System - Configuração do ESLint](https://github.com/rocketseat-education/05-design-system/commit/6ac5ed25944f332976e3623d8f9d959edc4c0ff6)
+
+Nessa aula nós vamos configurar um pacote que irá conter todas as configurações do ESLint que serão usadas no nosso monorepo.
+
