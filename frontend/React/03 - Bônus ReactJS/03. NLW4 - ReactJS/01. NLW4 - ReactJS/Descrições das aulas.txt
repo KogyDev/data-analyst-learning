@@ -1,0 +1,221 @@
+01. NLW 04 - ReactJS - Aula 01: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.02. NLW 04 - ReactJS - Aula 02: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.03. NLW 04 - ReactJS - Aula 03: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.04. NLW 04 - ReactJS - Aula 04: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.05. NLW 04 - ReactJS - Aula 05: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.01. NLW 04 - ReactJS - Aula 01: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.02. NLW 04 - ReactJS - Aula 02: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.03. NLW 04 - ReactJS - Aula 03: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.04. NLW 04 - ReactJS - Aula 04: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.05. NLW 04 - ReactJS - Aula 05: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.01. NLW 04 - ReactJS - Aula 01: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.02. NLW 04 - ReactJS - Aula 02: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.03. NLW 04 - ReactJS - Aula 03: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.04. NLW 04 - ReactJS - Aula 04: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.05. NLW 04 - ReactJS - Aula 05: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.01. NLW 04 - ReactJS - Aula 01: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.02. NLW 04 - ReactJS - Aula 02: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.03. NLW 04 - ReactJS - Aula 03: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.04. NLW 04 - ReactJS - Aula 04: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.05. NLW 04 - ReactJS - Aula 05: 
+   Este é um conteúdo da 4ª edição da **Next Level Week**, apresentado entre 21 e 28 de fevereiro de 2021.
+
+Nessa série de aulas você vai desenvolver o projeto move.it, uma aplicação web que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+Acesse o repositório final e layout [aqui](https://github.com/rocketseat-education/nlw-04-reactjs).
+
+[Configurações do ambiente - React](https://efficient-sloth-d85.notion.site/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
+
+**Atenção:** benefícios que podem ser citados nessa aula não estão disponíveis para essa modalidade de acesso ao workshop. O suporte de instrutores na comunidade, programa de bolsas, desafios, prêmios e encontros especiais são exclusivamente para o evento ao vivo.
+
+Se tiver dúvidas durante o desenvolvimento do seu projeto, lembre-se que na **[comunidade aberta](https://discord.com/invite/uYFJ5VJ)** você encontra milhares de programadoras e programadores prontos para te ajudar.
