@@ -1,0 +1,134 @@
+####################################################################################################
+01. Iterando no JSX: 
+   [Commit: Os motores do React - Iterando no JSX](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/f5b8eac)
+
+Agora que temos toda a estrutura e estilização da nossa aplicação, nós precisamos dar vida e funcionalidade à ela.
+
+Nessa aula vamos começar a aprender sobre como estruturar os dados do nosso elemento e iterar esses dados para exibir itens de maneira dinâmica na tela.
+
+
+####################################################################################################
+02. Propriedades do Post: 
+   [Commit: Os motores do React - Propriedades do Post](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/6ccb7ed)
+
+Na última aula nós fizemos a iteração de um array de posts. Já nessa aula vamos aprender a como utilizar essa iteração para enviar os dados de cada post de nosso array para componente `Post` para que ele possa ser renderizado em tela dinâmicamente.
+
+####################################################################################################
+03. Estado (useState): 
+   [Commit: Os motores do React - Estado (useState)](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/5849cff)
+
+Nessa aula, vamos entrar em outro conceito super importante do React, que é o conceito de Estado.
+
+Vamos iniciar a construção de um formulário de comentários para aprendermos sobre o funcionamento da renderização do React, imutabilidade e como podemos utilizar hooks para controlar o valor de variáveis em um estado do React.
+
+####################################################################################################
+04. Inserindo comentários (Programação declarativa): 
+   [Commit: Os motores do React - Inserindo comentários (Programação declarativa)](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/f77bf16)
+
+Agora vamos adicionar ainda mais funcionalidade aos nossos comentários dos Posts.
+
+Vamos também aprender como utilizar do conceito de [formulários e componentes controlados do ReactJS](https://pt-br.reactjs.org/docs/forms.html) para podermos adicionar comentários com textos baseados no que digitamos no input de cada post.
+
+####################################################################################################
+05. Entendendo a key: 
+   [Commit: Os motores do React - Entendendo a key](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/f2c8167)
+
+Nessa aula vamos entender a propriedade `key` do React, que vem de um conceito importante do React, chamado [Listas e chaves](https://pt-br.reactjs.org/docs/lists-and-keys.html).
+
+####################################################################################################
+06. Comunicação entre componentes: 
+   [Commit: Os motores do React - Comunicação entre componentes](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/94d2047)
+
+Nessa aula vamos entender como podemos compartilhar variáveis e funções para outros componentes através de propriedades para permitir que um componente se comunique com o outro.
+
+####################################################################################################
+07. Removendo comentários (imutabilidade): 
+   [Commit: Os motores do React - Removendo comentários (imutabilidade)](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/e0a9809)
+
+Nessa aula vamos aprender sobre como utilizar o conceito de Imutabilidade para remover um comentário de um Post.
+
+####################################################################################################
+08. Validando formulário: 
+   [Commit: Os motores do React - Validando formulário](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/aa9b51b)
+
+Agora vamos aprender a como configurar validações dos inputs do nosso formulário, para específicar regras e mostrar mensagens de erro antes que o usuário faça o submit do formulário.
+
+####################################################################################################
+09. Realizando likes nos comentários: 
+   [Commit: Os motores do React - Realizando likes nos comentários](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/4ff8253)
+
+Nessa aula, vamos aprender como utilizar o hook de estado do React para fazer um contador de likes para cada comentário de um Post, e aprender também o funcionamento de algumas funcionalidades do React como a `onClick`.
+
+####################################################################################################
+10. Entendendo closures no React: 
+   [Commit: Os motores do React - Entendendo closures no React](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/e30e968)
+
+Agora que terminamos a funcionalidade de likes dos comentários, vamos entender o que aconteceu por debaixo dos panos nas renderizações do React para entender o fluxo de alteração do estado do React.
+
+####################################################################################################
+01. Iterando no JSX: 
+   [Commit: Os motores do React - Iterando no JSX](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/f5b8eac)
+
+Agora que temos toda a estrutura e estilização da nossa aplicação, nós precisamos dar vida e funcionalidade à ela.
+
+Nessa aula vamos começar a aprender sobre como estruturar os dados do nosso elemento e iterar esses dados para exibir itens de maneira dinâmica na tela.
+
+
+####################################################################################################
+02. Propriedades do Post: 
+   [Commit: Os motores do React - Propriedades do Post](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/6ccb7ed)
+
+Na última aula nós fizemos a iteração de um array de posts. Já nessa aula vamos aprender a como utilizar essa iteração para enviar os dados de cada post de nosso array para componente `Post` para que ele possa ser renderizado em tela dinâmicamente.
+
+####################################################################################################
+03. Estado (useState): 
+   [Commit: Os motores do React - Estado (useState)](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/5849cff)
+
+Nessa aula, vamos entrar em outro conceito super importante do React, que é o conceito de Estado.
+
+Vamos iniciar a construção de um formulário de comentários para aprendermos sobre o funcionamento da renderização do React, imutabilidade e como podemos utilizar hooks para controlar o valor de variáveis em um estado do React.
+
+####################################################################################################
+04. Inserindo comentários (Programação declarativa): 
+   [Commit: Os motores do React - Inserindo comentários (Programação declarativa)](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/f77bf16)
+
+Agora vamos adicionar ainda mais funcionalidade aos nossos comentários dos Posts.
+
+Vamos também aprender como utilizar do conceito de [formulários e componentes controlados do ReactJS](https://pt-br.reactjs.org/docs/forms.html) para podermos adicionar comentários com textos baseados no que digitamos no input de cada post.
+
+####################################################################################################
+05. Entendendo a key: 
+   [Commit: Os motores do React - Entendendo a key](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/f2c8167)
+
+Nessa aula vamos entender a propriedade `key` do React, que vem de um conceito importante do React, chamado [Listas e chaves](https://pt-br.reactjs.org/docs/lists-and-keys.html).
+
+####################################################################################################
+06. Comunicação entre componentes: 
+   [Commit: Os motores do React - Comunicação entre componentes](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/94d2047)
+
+Nessa aula vamos entender como podemos compartilhar variáveis e funções para outros componentes através de propriedades para permitir que um componente se comunique com o outro.
+
+####################################################################################################
+07. Removendo comentários (imutabilidade): 
+   [Commit: Os motores do React - Removendo comentários (imutabilidade)](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/e0a9809)
+
+Nessa aula vamos aprender sobre como utilizar o conceito de Imutabilidade para remover um comentário de um Post.
+
+####################################################################################################
+08. Validando formulário: 
+   [Commit: Os motores do React - Validando formulário](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/aa9b51b)
+
+Agora vamos aprender a como configurar validações dos inputs do nosso formulário, para específicar regras e mostrar mensagens de erro antes que o usuário faça o submit do formulário.
+
+####################################################################################################
+09. Realizando likes nos comentários: 
+   [Commit: Os motores do React - Realizando likes nos comentários](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/4ff8253)
+
+Nessa aula, vamos aprender como utilizar o hook de estado do React para fazer um contador de likes para cada comentário de um Post, e aprender também o funcionamento de algumas funcionalidades do React como a `onClick`.
+
+####################################################################################################
+10. Entendendo closures no React: 
+   [Commit: Os motores do React - Entendendo closures no React](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/e30e968)
+
+Agora que terminamos a funcionalidade de likes dos comentários, vamos entender o que aconteceu por debaixo dos panos nas renderizações do React para entender o fluxo de alteração do estado do React.
+
