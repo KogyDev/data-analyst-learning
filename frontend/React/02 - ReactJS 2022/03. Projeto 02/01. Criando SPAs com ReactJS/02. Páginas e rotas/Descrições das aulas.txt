@@ -1,0 +1,108 @@
+####################################################################################################
+01. React Router DOM: 
+   [Commit: Páginas e rotas - React Router DOM](https://github.com/rocketseat-education/02-ignite-timer/commit/2350086)
+
+Nessa aula, veremos sobre como configurar a navegação da nossa aplicação para que ela tenha múltiplas páginas.
+
+Para isso, vamos instalar a biblioteca [React Router DOM](https://reactrouter.com/) e iremos estruturar a navegação da nossa aplicação.
+
+####################################################################################################
+02. Layout de rotas: 
+   [Commit: Páginas e rotas - Layout de rotas](https://github.com/rocketseat-education/02-ignite-timer/commit/6fc3b99)
+
+Agora vamos ver como criar um Layout padrão para a nossa aplicação, para que possa ser reaproveitado entre as duas páginas que criamos.
+
+####################################################################################################
+03. Header & Layout: 
+   Nessa aula temos dois commits:
+- [Páginas e rotas - Estilização do Layout](https://github.com/rocketseat-education/02-ignite-timer/commit/d5bceb9)
+- [Páginas e rotas - Componente: Header](https://github.com/rocketseat-education/02-ignite-timer/commit/a67c237)
+
+Agora vamos ver como organizar o nosso layout e começar a estilização dele para já conseguirmos visualizar como ele ficará na nossa aplicação.
+
+Vamos também estilizar o nosso componente Header e adicionar funcionalidades do react-router para conseguirmos navegar entre as páginas.
+
+####################################################################################################
+04. Página - Home: 
+   [Commit: Páginas e rotas - Página: Home](https://github.com/rocketseat-education/02-ignite-timer/commit/ae6cb1f)
+
+Agora vamos criar a estrutura base da nossa página Home, adicionando todo o HTML estilizando ela para já dar a cara do nosso Layout do Figma.
+
+####################################################################################################
+05. Finalização da Home: 
+   [Commit: Páginas e rotas - Finalização da Home](https://github.com/rocketseat-education/02-ignite-timer/commit/fa6e945)
+
+Vamos agora finalizar a estilização da nossa página Home, adicionando estilos ao formulário e botões dessa página.
+
+####################################################################################################
+06. Aprimorando os inputs: 
+   [Commit: Páginas e rotas - Aprimorando os inputs](https://github.com/rocketseat-education/02-ignite-timer/commit/2d244da)
+
+Agora para adicionar detalhes finais e aprimorar ainda mais o funcionamento da aplicação, vamos ver alguns elementos especiais do HTML que nos permitem personalizar as recomendações do Input.
+
+####################################################################################################
+07. Página - History: 
+   [Commit: Páginas e rotas - Página: History](https://github.com/rocketseat-education/02-ignite-timer/commit/6ea3ad8)
+
+Nessa aula vamos começar a implementar a estrutura e estilização da nossa página de History, criando a tabela com conteúdo fictício e já fazendo a estilização base dela.
+
+####################################################################################################
+08. Componente - Status: 
+   [Commit: Páginas e rotas - Componente: Status](https://github.com/rocketseat-education/02-ignite-timer/commit/1ea6d7b)
+
+Nessa aula vamos estilizar o status da nossa listagem do histórico e aprender algumas funcionalidades mais avançadas do TypeScript para tornar essa funcionalidade mais dinâmica.
+
+####################################################################################################
+01. React Router DOM: 
+   [Commit: Páginas e rotas - React Router DOM](https://github.com/rocketseat-education/02-ignite-timer/commit/2350086)
+
+Nessa aula, veremos sobre como configurar a navegação da nossa aplicação para que ela tenha múltiplas páginas.
+
+Para isso, vamos instalar a biblioteca [React Router DOM](https://reactrouter.com/) e iremos estruturar a navegação da nossa aplicação.
+
+####################################################################################################
+02. Layout de rotas: 
+   [Commit: Páginas e rotas - Layout de rotas](https://github.com/rocketseat-education/02-ignite-timer/commit/6fc3b99)
+
+Agora vamos ver como criar um Layout padrão para a nossa aplicação, para que possa ser reaproveitado entre as duas páginas que criamos.
+
+####################################################################################################
+03. Header & Layout: 
+   Nessa aula temos dois commits:
+- [Páginas e rotas - Estilização do Layout](https://github.com/rocketseat-education/02-ignite-timer/commit/d5bceb9)
+- [Páginas e rotas - Componente: Header](https://github.com/rocketseat-education/02-ignite-timer/commit/a67c237)
+
+Agora vamos ver como organizar o nosso layout e começar a estilização dele para já conseguirmos visualizar como ele ficará na nossa aplicação.
+
+Vamos também estilizar o nosso componente Header e adicionar funcionalidades do react-router para conseguirmos navegar entre as páginas.
+
+####################################################################################################
+04. Página - Home: 
+   [Commit: Páginas e rotas - Página: Home](https://github.com/rocketseat-education/02-ignite-timer/commit/ae6cb1f)
+
+Agora vamos criar a estrutura base da nossa página Home, adicionando todo o HTML estilizando ela para já dar a cara do nosso Layout do Figma.
+
+####################################################################################################
+05. Finalização da Home: 
+   [Commit: Páginas e rotas - Finalização da Home](https://github.com/rocketseat-education/02-ignite-timer/commit/fa6e945)
+
+Vamos agora finalizar a estilização da nossa página Home, adicionando estilos ao formulário e botões dessa página.
+
+####################################################################################################
+06. Aprimorando os inputs: 
+   [Commit: Páginas e rotas - Aprimorando os inputs](https://github.com/rocketseat-education/02-ignite-timer/commit/2d244da)
+
+Agora para adicionar detalhes finais e aprimorar ainda mais o funcionamento da aplicação, vamos ver alguns elementos especiais do HTML que nos permitem personalizar as recomendações do Input.
+
+####################################################################################################
+07. Página - History: 
+   [Commit: Páginas e rotas - Página: History](https://github.com/rocketseat-education/02-ignite-timer/commit/6ea3ad8)
+
+Nessa aula vamos começar a implementar a estrutura e estilização da nossa página de History, criando a tabela com conteúdo fictício e já fazendo a estilização base dela.
+
+####################################################################################################
+08. Componente - Status: 
+   [Commit: Páginas e rotas - Componente: Status](https://github.com/rocketseat-education/02-ignite-timer/commit/1ea6d7b)
+
+Nessa aula vamos estilizar o status da nossa listagem do histórico e aprender algumas funcionalidades mais avançadas do TypeScript para tornar essa funcionalidade mais dinâmica.
+

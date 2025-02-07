@@ -1,0 +1,64 @@
+####################################################################################################
+01. Controlled vs Uncontrolled: 
+   [Commit: Formulários - Controlled vs Uncontrolled](https://github.com/rocketseat-education/02-ignite-timer/commit/b3aad20)
+
+Nessa aula nós vamos ver as principais formas de como se trabalhar com formulários do React e entender as diferenças entre componentes controlados e componentes não controlados.
+
+####################################################################################################
+02. React Hook Form: 
+   [Commit: Formulários - React Hook Form](https://github.com/rocketseat-education/02-ignite-timer/commit/8695f7b)
+
+Para adicionar funcionalidade ao nosso formulário, nós vamos utilizar uma das principais bibliotecas de formulários para o react, a [react-hook-form](https://react-hook-form.com/).
+
+Vamos ver como utilizar o hook que a biblioteca provém para que consigamos recuperar os dados dos nossos input ao submit do formulário.
+
+####################################################################################################
+03. Validando formulários: 
+   [Commit: Formulários - Validando formulários](https://github.com/rocketseat-education/02-ignite-timer/commit/d03583a)
+
+Nessa aula vamos ver como configurar e utilizar a biblioteca [zod](https://github.com/colinhacks/zod) e como integrar ela com o react-hook-form para adicionar mais camadas de validação para nosso formulário.
+
+####################################################################################################
+04. TypeScript no formulário: 
+   [Commit: Formulários - TypeScript no formulário](https://github.com/rocketseat-education/02-ignite-timer/commit/d2c6848)
+
+Vamos ver agora como adicionar uma integração do react-hook-form ao TypeScript, adicionando interfaces para que o TypeScript entenda todos os campos existentes no nosso formulário de uma forma mais automatizada.
+
+####################################################################################################
+05. Resetando formulário: 
+   [Commit: Formulários - Resetando formulário](https://github.com/rocketseat-education/02-ignite-timer/commit/4d38951)
+
+Nessa aula iremos ver como resetar os campos do nosso formulário, para que assim que uma task seja criada o formulário seja limpo automaticamente para que o usuário possa criar uma nova task em outro momento.
+
+####################################################################################################
+01. Controlled vs Uncontrolled: 
+   [Commit: Formulários - Controlled vs Uncontrolled](https://github.com/rocketseat-education/02-ignite-timer/commit/b3aad20)
+
+Nessa aula nós vamos ver as principais formas de como se trabalhar com formulários do React e entender as diferenças entre componentes controlados e componentes não controlados.
+
+####################################################################################################
+02. React Hook Form: 
+   [Commit: Formulários - React Hook Form](https://github.com/rocketseat-education/02-ignite-timer/commit/8695f7b)
+
+Para adicionar funcionalidade ao nosso formulário, nós vamos utilizar uma das principais bibliotecas de formulários para o react, a [react-hook-form](https://react-hook-form.com/).
+
+Vamos ver como utilizar o hook que a biblioteca provém para que consigamos recuperar os dados dos nossos input ao submit do formulário.
+
+####################################################################################################
+03. Validando formulários: 
+   [Commit: Formulários - Validando formulários](https://github.com/rocketseat-education/02-ignite-timer/commit/d03583a)
+
+Nessa aula vamos ver como configurar e utilizar a biblioteca [zod](https://github.com/colinhacks/zod) e como integrar ela com o react-hook-form para adicionar mais camadas de validação para nosso formulário.
+
+####################################################################################################
+04. TypeScript no formulário: 
+   [Commit: Formulários - TypeScript no formulário](https://github.com/rocketseat-education/02-ignite-timer/commit/d2c6848)
+
+Vamos ver agora como adicionar uma integração do react-hook-form ao TypeScript, adicionando interfaces para que o TypeScript entenda todos os campos existentes no nosso formulário de uma forma mais automatizada.
+
+####################################################################################################
+05. Resetando formulário: 
+   [Commit: Formulários - Resetando formulário](https://github.com/rocketseat-education/02-ignite-timer/commit/4d38951)
+
+Nessa aula iremos ver como resetar os campos do nosso formulário, para que assim que uma task seja criada o formulário seja limpo automaticamente para que o usuário possa criar uma nova task em outro momento.
+
