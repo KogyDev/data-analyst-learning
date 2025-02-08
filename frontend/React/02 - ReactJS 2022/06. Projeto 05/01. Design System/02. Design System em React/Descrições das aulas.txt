@@ -1,0 +1,112 @@
+####################################################################################################
+01. Configurando pacote do React: 
+   [Commit: Design System em React - Configurando pacote do React](https://github.com/rocketseat-education/05-design-system/commit/9674cca46dbdb23938d68b9deabfe844ca9e6bf7)
+
+Nessa aula vamos fazer algumas configurações para deixar nosso pacote de React preparado para receber componentes e configurações relacionadas ao React.
+
+####################################################################################################
+02. Configuração do Stitches: 
+   [Commit: Design System em React - Configuração do Stitches](https://github.com/rocketseat-education/05-design-system/commit/d9494fba3aa1cc5e34e72c6a66ae3071a041e22a)
+
+Vamos agora configurar a ferramenta de estilização que utilizaremos durante a construção do nosso Design System, que é o Stitches.
+
+####################################################################################################
+03. Criando app em Storybook: 
+   [Commit: Design System em React - Criando app em Storybook](https://github.com/rocketseat-education/05-design-system/commit/3f5e4fa48dcf44d8944ef1ea56ae87df0a884fa7)
+
+Vamos agora configurar o StoryBook e integrar ele com os plugins do vite e React e já visualizar o funcionamento  do Storybook no navegador.
+
+####################################################################################################
+04. Story - Button: 
+   [Commit: Design System em React - Story: Button](https://github.com/rocketseat-education/05-design-system/commit/e7dcafae61b462b154c31b96c3ce2b5e6e4acc0e)
+
+Nessa aula, vamos integrar a nossa documentação do Storybook com o pacote de React que criamos e entender como podemos criar variações e documentar elas diretamente através do Storybook.
+
+####################################################################################################
+05. Tema dark no Storybook: 
+   [Commit: Design System em React - Tema dark no Storybook](https://github.com/rocketseat-education/05-design-system/commit/bf00b7d06824b25a629a8805d213b05f9d462253)
+
+Vamos agora configurar o tema dark do Storybook, para deixar ele com uma aparência mais leve aos olhos.
+
+####################################################################################################
+06. Adicionando fonte externa: 
+   [Commit: Design System em React - Adicionando fonte externa](https://github.com/rocketseat-education/05-design-system/commit/8388c267c9b3590b05f08d73d192bf09075108af)
+
+Nessa aula vamos entender como carregar a fonte que utilizaremos no nosso design-system em um arquivo do Storybook que permite adicionar scripts ao head do documento.
+
+####################################################################################################
+07. Documentação de cores: 
+   [Commit: Design System em React - Documentação de cores](https://github.com/rocketseat-education/05-design-system/commit/3bd171d98d1255ec37015c0c807c8d1dc1d0e4cd)
+
+Vamos agora configurar a configuração das cores do nosso Design System de forma que elas sejam visíveis diretamente através da aplicação do StoryBook.
+
+Extensão necessária para funcionamento do MDX: [MDX - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)
+
+####################################################################################################
+08. Documentação de tokens: 
+   [Commit: Design System em React - Documentação de tokens](https://github.com/rocketseat-education/05-design-system/commit/995152c10246de21f80dc7472b7d8b211554c533)
+
+Nessa aula vamos concluir a documentação dos tokens, criando as documentações para todos os tipos de tokens da nossa aplicação.
+
+####################################################################################################
+09. Configurando TurboRepo: 
+   [Commit: Design System em React - Configurando TurboRepo](https://github.com/rocketseat-education/05-design-system/commit/ac37d7378d2ec844616d44b31718d3985460d22a)
+
+Nessa aula vamos conhecer o Turbo Repo e veremos como configurar essa ferramenta para ajudar na execução e build dos nossos projetos do monorepo.
+
+####################################################################################################
+01. Configurando pacote do React: 
+   [Commit: Design System em React - Configurando pacote do React](https://github.com/rocketseat-education/05-design-system/commit/9674cca46dbdb23938d68b9deabfe844ca9e6bf7)
+
+Nessa aula vamos fazer algumas configurações para deixar nosso pacote de React preparado para receber componentes e configurações relacionadas ao React.
+
+####################################################################################################
+02. Configuração do Stitches: 
+   [Commit: Design System em React - Configuração do Stitches](https://github.com/rocketseat-education/05-design-system/commit/d9494fba3aa1cc5e34e72c6a66ae3071a041e22a)
+
+Vamos agora configurar a ferramenta de estilização que utilizaremos durante a construção do nosso Design System, que é o Stitches.
+
+####################################################################################################
+03. Criando app em Storybook: 
+   [Commit: Design System em React - Criando app em Storybook](https://github.com/rocketseat-education/05-design-system/commit/3f5e4fa48dcf44d8944ef1ea56ae87df0a884fa7)
+
+Vamos agora configurar o StoryBook e integrar ele com os plugins do vite e React e já visualizar o funcionamento  do Storybook no navegador.
+
+####################################################################################################
+04. Story - Button: 
+   [Commit: Design System em React - Story: Button](https://github.com/rocketseat-education/05-design-system/commit/e7dcafae61b462b154c31b96c3ce2b5e6e4acc0e)
+
+Nessa aula, vamos integrar a nossa documentação do Storybook com o pacote de React que criamos e entender como podemos criar variações e documentar elas diretamente através do Storybook.
+
+####################################################################################################
+05. Tema dark no Storybook: 
+   [Commit: Design System em React - Tema dark no Storybook](https://github.com/rocketseat-education/05-design-system/commit/bf00b7d06824b25a629a8805d213b05f9d462253)
+
+Vamos agora configurar o tema dark do Storybook, para deixar ele com uma aparência mais leve aos olhos.
+
+####################################################################################################
+06. Adicionando fonte externa: 
+   [Commit: Design System em React - Adicionando fonte externa](https://github.com/rocketseat-education/05-design-system/commit/8388c267c9b3590b05f08d73d192bf09075108af)
+
+Nessa aula vamos entender como carregar a fonte que utilizaremos no nosso design-system em um arquivo do Storybook que permite adicionar scripts ao head do documento.
+
+####################################################################################################
+07. Documentação de cores: 
+   [Commit: Design System em React - Documentação de cores](https://github.com/rocketseat-education/05-design-system/commit/3bd171d98d1255ec37015c0c807c8d1dc1d0e4cd)
+
+Vamos agora configurar a configuração das cores do nosso Design System de forma que elas sejam visíveis diretamente através da aplicação do StoryBook.
+
+Extensão necessária para funcionamento do MDX: [MDX - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)
+
+####################################################################################################
+08. Documentação de tokens: 
+   [Commit: Design System em React - Documentação de tokens](https://github.com/rocketseat-education/05-design-system/commit/995152c10246de21f80dc7472b7d8b211554c533)
+
+Nessa aula vamos concluir a documentação dos tokens, criando as documentações para todos os tipos de tokens da nossa aplicação.
+
+####################################################################################################
+09. Configurando TurboRepo: 
+   [Commit: Design System em React - Configurando TurboRepo](https://github.com/rocketseat-education/05-design-system/commit/ac37d7378d2ec844616d44b31718d3985460d22a)
+
+Nessa aula vamos conhecer o Turbo Repo e veremos como configurar essa ferramenta para ajudar na execução e build dos nossos projetos do monorepo.
+

@@ -1,0 +1,48 @@
+####################################################################################################
+01. Display name dos componentes: 
+   [Commit: Melhorias no Storybook - Display name dos componentes](https://github.com/rocketseat-education/05-design-system/commit/74f300d7d7e2266e37a1ff2c867b7c4b2422e87f)
+
+Nessa aula nós vamos melhorar a visualização do código no Storybooks, adicionando um display name aos nossos componentes.
+
+####################################################################################################
+02. Log de ações no componente: 
+   [Commit: Melhorias no Storybook - Log de ações no componente](https://github.com/rocketseat-education/05-design-system/commit/135bd2bd8c1b7771467d3b7aae62cbddbf296e35)
+
+Agora vamos configurar os logs no Storybooks, para permitir que componentes com interação exibam um retorno ao serem interagidos.
+
+####################################################################################################
+03. Controles nos componentes: 
+   [Commit: Melhorias no Storybook - Controles nos componentes](https://github.com/rocketseat-education/05-design-system/commit/53fa09de987d4cb8b386956d173fcb36f4119618)
+
+Nessa aula vamos adicionar algumas configurações que permitem que os usuários da documentação interajam e controlem as variantes dos componentes.
+
+####################################################################################################
+04. Addon de acessibilidade: 
+   [Commit: Melhorias no Storybook - Addon de acessibilidade](https://github.com/rocketseat-education/05-design-system/commit/40d0735b6ca1451a96555add4c6568f5a959fe4c)
+
+Nessa aula vamos adicionar um Addon (plugin) de acessibilidade ao Storybook, para analisar a acessibilidade dos components criados.
+
+####################################################################################################
+01. Display name dos componentes: 
+   [Commit: Melhorias no Storybook - Display name dos componentes](https://github.com/rocketseat-education/05-design-system/commit/74f300d7d7e2266e37a1ff2c867b7c4b2422e87f)
+
+Nessa aula nós vamos melhorar a visualização do código no Storybooks, adicionando um display name aos nossos componentes.
+
+####################################################################################################
+02. Log de ações no componente: 
+   [Commit: Melhorias no Storybook - Log de ações no componente](https://github.com/rocketseat-education/05-design-system/commit/135bd2bd8c1b7771467d3b7aae62cbddbf296e35)
+
+Agora vamos configurar os logs no Storybooks, para permitir que componentes com interação exibam um retorno ao serem interagidos.
+
+####################################################################################################
+03. Controles nos componentes: 
+   [Commit: Melhorias no Storybook - Controles nos componentes](https://github.com/rocketseat-education/05-design-system/commit/53fa09de987d4cb8b386956d173fcb36f4119618)
+
+Nessa aula vamos adicionar algumas configurações que permitem que os usuários da documentação interajam e controlem as variantes dos componentes.
+
+####################################################################################################
+04. Addon de acessibilidade: 
+   [Commit: Melhorias no Storybook - Addon de acessibilidade](https://github.com/rocketseat-education/05-design-system/commit/40d0735b6ca1451a96555add4c6568f5a959fe4c)
+
+Nessa aula vamos adicionar um Addon (plugin) de acessibilidade ao Storybook, para analisar a acessibilidade dos components criados.
+

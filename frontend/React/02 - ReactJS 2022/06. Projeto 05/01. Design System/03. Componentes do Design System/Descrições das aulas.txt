@@ -1,0 +1,152 @@
+####################################################################################################
+01. Componente - Box: 
+   [Commit: Componentes do Design System - Componente: Box](https://github.com/rocketseat-education/05-design-system/commit/a95f8e2be1f538812127f4f66d6949e9e2d335d7)
+
+Agora vamos criar nosso primeiro componente do pacote de React do Design System. Vamos entender principalmente como documentar os componentes que criamos dentro do Storybook.
+
+####################################################################################################
+02. Componente - Text: 
+   [Commit: Componentes do Design System - Componente: Text](https://github.com/rocketseat-education/05-design-system/commit/95c6a90a2cd01e0ce3c57dceea48e6ff8f2f7349)
+
+Nessa aula nós vamos criar o componente de texto, que irá padronizar a estilização dos textos do nosso Design System.
+
+Variantes do texto, para copiar:
+
+```tsx
+variants: {
+  size: {
+    xxs: { fontSize: '$xxs' },
+    xs: { fontSize: '$xs' },
+    sm: { fontSize: '$sm' },
+    md: { fontSize: '$md' },
+    lg: { fontSize: '$lg' },
+    xl: { fontSize: '$xl' },
+    '2xl': { fontSize: '$2xl' },
+    '4xl': { fontSize: '$4xl' },
+    '5xl': { fontSize: '$5xl' },
+    '6xl': { fontSize: '$6xl' },
+    '7xl': { fontSize: '$7xl' },
+    '8xl': { fontSize: '$8xl' },
+    '9xl': { fontSize: '$9xl' },
+  },
+},
+```
+
+####################################################################################################
+03. Componente - Heading: 
+   [Commit: Componentes do Design System - Componente: Heading](https://github.com/rocketseat-education/05-design-system/commit/9166aef9e16fe8e02a0526250ed2abc71746f554)
+
+Nessa aula vamos criar e documentar o componente de Heading, e entender como podemos adicionar contexto adicional às stories do Storybooks.
+
+####################################################################################################
+04. Componente - Avatar: 
+   [Commit: Componentes do Design System - Componente: Avatar](https://github.com/rocketseat-education/05-design-system/commit/e48e56884a26126fb37299e2d28c0fe1c375a764)
+
+Vamos agora criar e documentar o componente de Avatar que será utilizado no nosso Design System.
+
+####################################################################################################
+05. Componente - Button: 
+   [Commit: Componentes do Design System - Componente: Button](https://github.com/rocketseat-education/05-design-system/commit/04481027fd974b2c0a88cafbdefadb817d96b946)
+
+Nessa aula vamos criar o componente de Button, e também documentar usando o Storybook.
+
+####################################################################################################
+06. Componente - TextInput: 
+   [Commit: Componentes do Design System - Componente: TextInput](https://github.com/rocketseat-education/05-design-system/commit/abe1484e8e6eff9547a3f2d06eaeff96ea7ea250)
+
+Vamos criar agora o componente de TextInput para o nosso Design System, e também entender como utilizar os decorators do storybook.
+
+####################################################################################################
+07. Componente - TextArea: 
+   [Commit: Componentes do Design System - Componente: TextArea](https://github.com/rocketseat-education/05-design-system/commit/b3a7793d629db70be4e410f87e14897d0c3ac240)
+
+Nessa aula vamos criar o componente TextArea e também documentar ele.
+
+####################################################################################################
+08. Componente - Checkbox: 
+   [Commit: Componentes do Design System - Componente: Checkbox](https://github.com/rocketseat-education/05-design-system/commit/d88ef430012f086648f56bd613b1a93931799846)
+
+Nessa aula vamos criar o componente Checkbox.
+
+####################################################################################################
+09. Componente - MultiStep: 
+   [Commit: Componentes do Design System - Componente: MultiStep](https://github.com/rocketseat-education/05-design-system/commit/6b99badd20257d869a4f270e4db79ea505a857d7)
+
+Vamos agora criar o último componente e documentar ele através do Storybook, que é o componente de MultiStep.
+
+####################################################################################################
+01. Componente - Box: 
+   [Commit: Componentes do Design System - Componente: Box](https://github.com/rocketseat-education/05-design-system/commit/a95f8e2be1f538812127f4f66d6949e9e2d335d7)
+
+Agora vamos criar nosso primeiro componente do pacote de React do Design System. Vamos entender principalmente como documentar os componentes que criamos dentro do Storybook.
+
+####################################################################################################
+02. Componente - Text: 
+   [Commit: Componentes do Design System - Componente: Text](https://github.com/rocketseat-education/05-design-system/commit/95c6a90a2cd01e0ce3c57dceea48e6ff8f2f7349)
+
+Nessa aula nós vamos criar o componente de texto, que irá padronizar a estilização dos textos do nosso Design System.
+
+Variantes do texto, para copiar:
+
+```tsx
+variants: {
+  size: {
+    xxs: { fontSize: '$xxs' },
+    xs: { fontSize: '$xs' },
+    sm: { fontSize: '$sm' },
+    md: { fontSize: '$md' },
+    lg: { fontSize: '$lg' },
+    xl: { fontSize: '$xl' },
+    '2xl': { fontSize: '$2xl' },
+    '4xl': { fontSize: '$4xl' },
+    '5xl': { fontSize: '$5xl' },
+    '6xl': { fontSize: '$6xl' },
+    '7xl': { fontSize: '$7xl' },
+    '8xl': { fontSize: '$8xl' },
+    '9xl': { fontSize: '$9xl' },
+  },
+},
+```
+
+####################################################################################################
+03. Componente - Heading: 
+   [Commit: Componentes do Design System - Componente: Heading](https://github.com/rocketseat-education/05-design-system/commit/9166aef9e16fe8e02a0526250ed2abc71746f554)
+
+Nessa aula vamos criar e documentar o componente de Heading, e entender como podemos adicionar contexto adicional às stories do Storybooks.
+
+####################################################################################################
+04. Componente - Avatar: 
+   [Commit: Componentes do Design System - Componente: Avatar](https://github.com/rocketseat-education/05-design-system/commit/e48e56884a26126fb37299e2d28c0fe1c375a764)
+
+Vamos agora criar e documentar o componente de Avatar que será utilizado no nosso Design System.
+
+####################################################################################################
+05. Componente - Button: 
+   [Commit: Componentes do Design System - Componente: Button](https://github.com/rocketseat-education/05-design-system/commit/04481027fd974b2c0a88cafbdefadb817d96b946)
+
+Nessa aula vamos criar o componente de Button, e também documentar usando o Storybook.
+
+####################################################################################################
+06. Componente - TextInput: 
+   [Commit: Componentes do Design System - Componente: TextInput](https://github.com/rocketseat-education/05-design-system/commit/abe1484e8e6eff9547a3f2d06eaeff96ea7ea250)
+
+Vamos criar agora o componente de TextInput para o nosso Design System, e também entender como utilizar os decorators do storybook.
+
+####################################################################################################
+07. Componente - TextArea: 
+   [Commit: Componentes do Design System - Componente: TextArea](https://github.com/rocketseat-education/05-design-system/commit/b3a7793d629db70be4e410f87e14897d0c3ac240)
+
+Nessa aula vamos criar o componente TextArea e também documentar ele.
+
+####################################################################################################
+08. Componente - Checkbox: 
+   [Commit: Componentes do Design System - Componente: Checkbox](https://github.com/rocketseat-education/05-design-system/commit/d88ef430012f086648f56bd613b1a93931799846)
+
+Nessa aula vamos criar o componente Checkbox.
+
+####################################################################################################
+09. Componente - MultiStep: 
+   [Commit: Componentes do Design System - Componente: MultiStep](https://github.com/rocketseat-education/05-design-system/commit/6b99badd20257d869a4f270e4db79ea505a857d7)
+
+Vamos agora criar o último componente e documentar ele através do Storybook, que é o componente de MultiStep.
+
