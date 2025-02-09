@@ -1,0 +1,202 @@
+####################################################################################################
+01. Introducao: 
+   Aqui você vai descobrir o que vamos desenvolver nesse módulo e quais ferramentas vamos utilizar nessa construção, aperte os cintos, pois há muito conhecimento à frente.
+
+####################################################################################################
+03. Criacao do projeto em Next: 
+   [Commit: Setup & estrutura - Criação do projeto em Next.js](https://github.com/rocketseat-education/06-ignite-call/commit/de07df18e3bd080dc7ee9736909b6488f426726b)
+
+Nessa aula iremos criar o nosso projeto com Next.js e limpar alguns arquivos que são criados automaticamente, pra deixar a estrutura pronta para ser trabalhada.
+
+Comando utilizado para criar o projeto:
+`npx create-next-app@latest --use-npm`
+
+####################################################################################################
+04. Instalacao do Design System: 
+   [Commit: Setup & estrutura - Instalação do Design System](https://github.com/rocketseat-education/06-ignite-call/commit/e1b8d2facf734cb81ce3679e8e2540f69834c2f7)
+
+Agora iremos instalar o Design System que foi construído em um dos módulos do Ignite.
+O comando para a instalação do Design System: `npm i @ignite-ui/react@latest`
+Após a instalação, iremos configurar os estilos globais usando o Design System:
+
+Caminho do arquivo: src/styles/global.ts
+
+```tsx
+import { globalCss } from "@ignite-ui/react";
+
+export const globalStyles = globalCss({
+  '*': {
+    boxSizing: 'border-box',
+    padding: 0,
+    margin: 0,
+  },
+
+  body: {
+    backgroundColor: '$gray900',
+    color: '$gray100',
+    '-webkit-font-smoothing': 'antialiased',
+  },
+})
+```
+
+Para configurar a fonte, iremos criar um arquivo `_document.tsx`, que é a maneira atual que o Next lida com a configuração do HTML da aplicação.
+
+Caminho do arquivo: src/pages/_document.tsx
+
+```tsx
+import { Head, Html, Main, NextScript } from "next/document";
+
+export default function Document() {
+  return (
+    <Html>
+        <Head>
+            <link rel="preconnect" href="https://fonts.googleapis.com" />
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous">
+
+            <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+       </Head>
+       <body>
+            <Main />
+            <NextScript />
+        </body>
+     </Html>
+  )
+}
+```
+
+Importante lembrar que precisamos adicionar um código a mais dentro de `_document.tsx` pra que o server side rendering funcione:
+
+```jsx
+<style id="stitches" dangerouslySetInnerHTML={{ __html: getCssText() }} />
+```
+
+####################################################################################################
+05. Configuracao do ESLint: 
+   [Commit: Setup & estrutura - Configuração do ESLint](https://github.com/rocketseat-education/06-ignite-call/commit/55841172cd8d7d937183a796d7b8557dcb0e10a9)
+
+Nessa aula iremos configurar o ESLint pra facilitar manter padrões de código.
+Código para instalação: `npm i @rocketseat/eslint-config -D`
+
+O arquivo `.eslintrc.json`, que foi gerado automaticamente na criação do projeto, ficará assim:
+
+```json
+{
+  "extends": [
+    "@rocketseat/eslint-config/react",
+    "next/core-web-vitals"
+  ]
+}
+```
+
+####################################################################################################
+06. Configuracao do pageExtensions: 
+   [Commit: Setup & estrutura - Configuração do pageExtensions](https://github.com/rocketseat-education/06-ignite-call/commit/0ad6ad577d4cc69b55873bd53f61407360178294)
+
+Nessa aula, iremos configurar o `pageExtensions`, para informar ao Next.js quais as extensões de arquivos queremos que ele transforme em rotas/páginas da aplicação.
+
+Arquivo: next.config.js
+`pageExtensions: ['page.tsx', 'api.ts', 'api.tsx']`
+
+A partir de agora, todo arquivo que a gente quer que seja uma página, precisa terminar com `page.tsx`, inclusive o **_app** e o **_document**.
+
+####################################################################################################
+01. Introducao: 
+   Aqui você vai descobrir o que vamos desenvolver nesse módulo e quais ferramentas vamos utilizar nessa construção, aperte os cintos, pois há muito conhecimento à frente.
+
+####################################################################################################
+03. Criacao do projeto em Next: 
+   [Commit: Setup & estrutura - Criação do projeto em Next.js](https://github.com/rocketseat-education/06-ignite-call/commit/de07df18e3bd080dc7ee9736909b6488f426726b)
+
+Nessa aula iremos criar o nosso projeto com Next.js e limpar alguns arquivos que são criados automaticamente, pra deixar a estrutura pronta para ser trabalhada.
+
+Comando utilizado para criar o projeto:
+`npx create-next-app@latest --use-npm`
+
+####################################################################################################
+04. Instalacao do Design System: 
+   [Commit: Setup & estrutura - Instalação do Design System](https://github.com/rocketseat-education/06-ignite-call/commit/e1b8d2facf734cb81ce3679e8e2540f69834c2f7)
+
+Agora iremos instalar o Design System que foi construído em um dos módulos do Ignite.
+O comando para a instalação do Design System: `npm i @ignite-ui/react@latest`
+Após a instalação, iremos configurar os estilos globais usando o Design System:
+
+Caminho do arquivo: src/styles/global.ts
+
+```tsx
+import { globalCss } from "@ignite-ui/react";
+
+export const globalStyles = globalCss({
+  '*': {
+    boxSizing: 'border-box',
+    padding: 0,
+    margin: 0,
+  },
+
+  body: {
+    backgroundColor: '$gray900',
+    color: '$gray100',
+    '-webkit-font-smoothing': 'antialiased',
+  },
+})
+```
+
+Para configurar a fonte, iremos criar um arquivo `_document.tsx`, que é a maneira atual que o Next lida com a configuração do HTML da aplicação.
+
+Caminho do arquivo: src/pages/_document.tsx
+
+```tsx
+import { Head, Html, Main, NextScript } from "next/document";
+
+export default function Document() {
+  return (
+    <Html>
+        <Head>
+            <link rel="preconnect" href="https://fonts.googleapis.com" />
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous">
+
+            <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+       </Head>
+       <body>
+            <Main />
+            <NextScript />
+        </body>
+     </Html>
+  )
+}
+```
+
+Importante lembrar que precisamos adicionar um código a mais dentro de `_document.tsx` pra que o server side rendering funcione:
+
+```jsx
+<style id="stitches" dangerouslySetInnerHTML={{ __html: getCssText() }} />
+```
+
+####################################################################################################
+05. Configuracao do ESLint: 
+   [Commit: Setup & estrutura - Configuração do ESLint](https://github.com/rocketseat-education/06-ignite-call/commit/55841172cd8d7d937183a796d7b8557dcb0e10a9)
+
+Nessa aula iremos configurar o ESLint pra facilitar manter padrões de código.
+Código para instalação: `npm i @rocketseat/eslint-config -D`
+
+O arquivo `.eslintrc.json`, que foi gerado automaticamente na criação do projeto, ficará assim:
+
+```json
+{
+  "extends": [
+    "@rocketseat/eslint-config/react",
+    "next/core-web-vitals"
+  ]
+}
+```
+
+####################################################################################################
+06. Configuracao do pageExtensions: 
+   [Commit: Setup & estrutura - Configuração do pageExtensions](https://github.com/rocketseat-education/06-ignite-call/commit/0ad6ad577d4cc69b55873bd53f61407360178294)
+
+Nessa aula, iremos configurar o `pageExtensions`, para informar ao Next.js quais as extensões de arquivos queremos que ele transforme em rotas/páginas da aplicação.
+
+Arquivo: next.config.js
+`pageExtensions: ['page.tsx', 'api.ts', 'api.tsx']`
+
+A partir de agora, todo arquivo que a gente quer que seja uma página, precisa terminar com `page.tsx`, inclusive o **_app** e o **_document**.
+
