@@ -1,0 +1,98 @@
+####################################################################################################
+01. Criando reducer de ciclos: 
+   [Commit: Reducers - Criando reducer de ciclos](https://github.com/rocketseat-education/02-ignite-timer/commit/45f320e)
+
+Agora vamos aprender um novo conceito, chamado de [userReducer](https://pt-br.reactjs.org/docs/hooks-reference.html#usereducer) que serve para armazenar informações mais complexas e que demandam muitas linhas de código para alterá-las.
+Nessa aula, iremos aplicar o `userReducer` nos ciclos da nossa aplicação.
+
+####################################################################################################
+02. Salvando um objeto no Reducer: 
+   [Commit: Reducers - Salvando um objeto no Reducer](https://github.com/rocketseat-education/02-ignite-timer/commit/86d5a73)
+
+Nessa aula iremos nos aprofundar mais no contexto de reducer e aprender que podemos salvar várias informações nele, inclusive um objeto, sem atrapalhar a sua funcionalidade.
+
+####################################################################################################
+03. Marcando ciclo como finalizado: 
+   [Commit: Reducers - Marcando ciclo como finalizado](https://github.com/rocketseat-education/02-ignite-timer/commit/a66d64e)
+
+A ideia agora é conseguir marcar o ciclo como finalizado. Além disso, iremos fazer uma pequena refatoração no código substituindo as condicionais `if` pelo `switch`.
+
+####################################################################################################
+04. Separando Action Types: 
+   [Commit: Reducers - Separando Action Types](https://github.com/rocketseat-education/02-ignite-timer/commit/ef57d02)
+
+Nessa aula iremos criar uma `ActionTypes` para separar as nossas actions, ajudando na manutenção do código e facilitando a sua chamada caso a gente não se recorde exatamente o nome que foi dado a ela.
+
+####################################################################################################
+05. Separando Actions: 
+   [Commit: Reducers - Separando Actions](https://github.com/rocketseat-education/02-ignite-timer/commit/b5eaddc)
+
+Seguindo a mesma linha de raciocínio da aula anterior, agora iremos abstrair as chamadas das actions para outro arquivo.
+
+####################################################################################################
+06. Utilizando immer: 
+   [Commit: Reducers - Utilizando immer](https://github.com/rocketseat-education/02-ignite-timer/commit/8b2a1ae)
+
+Agora vamos utilizar a biblioteca [Immer](https://github.com/immerjs/immer) pra nos ajudar a lidar com os dados da nossa aplicação sem termos que nos preocupar com a imutabilidade do react.
+
+####################################################################################################
+07. Salvando estado no storage: 
+   [Commit: Reducers - Salvando estado no storage](https://github.com/rocketseat-education/02-ignite-timer/commit/280ad5e7452ab8dd68f0305f0010c93b83b8aaa7)
+
+Nessa aula iremos aprender como salvar algumas informações da nossa aplicação no Storage do navegador, para não perdermos os dados dos ciclos caso a página seja atualizada.
+
+####################################################################################################
+08. Corrigindo listagem do histórico: 
+   [Commit: Reducers - Corrigindo listagem do histórico](https://github.com/rocketseat-education/02-ignite-timer/commit/719250479fa3a879c182358c8b73ec14ed87ee0f)
+
+Agora vamos finalizar o módulo corrigindo a formatação das datas na página de Histórico.
+
+####################################################################################################
+01. Criando reducer de ciclos: 
+   [Commit: Reducers - Criando reducer de ciclos](https://github.com/rocketseat-education/02-ignite-timer/commit/45f320e)
+
+Agora vamos aprender um novo conceito, chamado de [userReducer](https://pt-br.reactjs.org/docs/hooks-reference.html#usereducer) que serve para armazenar informações mais complexas e que demandam muitas linhas de código para alterá-las.
+Nessa aula, iremos aplicar o `userReducer` nos ciclos da nossa aplicação.
+
+####################################################################################################
+02. Salvando um objeto no Reducer: 
+   [Commit: Reducers - Salvando um objeto no Reducer](https://github.com/rocketseat-education/02-ignite-timer/commit/86d5a73)
+
+Nessa aula iremos nos aprofundar mais no contexto de reducer e aprender que podemos salvar várias informações nele, inclusive um objeto, sem atrapalhar a sua funcionalidade.
+
+####################################################################################################
+03. Marcando ciclo como finalizado: 
+   [Commit: Reducers - Marcando ciclo como finalizado](https://github.com/rocketseat-education/02-ignite-timer/commit/a66d64e)
+
+A ideia agora é conseguir marcar o ciclo como finalizado. Além disso, iremos fazer uma pequena refatoração no código substituindo as condicionais `if` pelo `switch`.
+
+####################################################################################################
+04. Separando Action Types: 
+   [Commit: Reducers - Separando Action Types](https://github.com/rocketseat-education/02-ignite-timer/commit/ef57d02)
+
+Nessa aula iremos criar uma `ActionTypes` para separar as nossas actions, ajudando na manutenção do código e facilitando a sua chamada caso a gente não se recorde exatamente o nome que foi dado a ela.
+
+####################################################################################################
+05. Separando Actions: 
+   [Commit: Reducers - Separando Actions](https://github.com/rocketseat-education/02-ignite-timer/commit/b5eaddc)
+
+Seguindo a mesma linha de raciocínio da aula anterior, agora iremos abstrair as chamadas das actions para outro arquivo.
+
+####################################################################################################
+06. Utilizando immer: 
+   [Commit: Reducers - Utilizando immer](https://github.com/rocketseat-education/02-ignite-timer/commit/8b2a1ae)
+
+Agora vamos utilizar a biblioteca [Immer](https://github.com/immerjs/immer) pra nos ajudar a lidar com os dados da nossa aplicação sem termos que nos preocupar com a imutabilidade do react.
+
+####################################################################################################
+07. Salvando estado no storage: 
+   [Commit: Reducers - Salvando estado no storage](https://github.com/rocketseat-education/02-ignite-timer/commit/280ad5e7452ab8dd68f0305f0010c93b83b8aaa7)
+
+Nessa aula iremos aprender como salvar algumas informações da nossa aplicação no Storage do navegador, para não perdermos os dados dos ciclos caso a página seja atualizada.
+
+####################################################################################################
+08. Corrigindo listagem do histórico: 
+   [Commit: Reducers - Corrigindo listagem do histórico](https://github.com/rocketseat-education/02-ignite-timer/commit/719250479fa3a879c182358c8b73ec14ed87ee0f)
+
+Agora vamos finalizar o módulo corrigindo a formatação das datas na página de Histórico.
+

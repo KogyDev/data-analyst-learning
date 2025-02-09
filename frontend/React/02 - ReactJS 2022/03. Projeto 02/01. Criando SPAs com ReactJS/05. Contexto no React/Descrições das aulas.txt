@@ -1,0 +1,84 @@
+####################################################################################################
+01. Entendendo contextos: 
+   Vamos introduzir nessa aula um novo conceito, chamado de [Contextos no React](https://pt-br.reactjs.org/docs/context.html) e vamos criar nosso primeiro Contexto para entender seus principais conceitos e forma de utilização.
+
+####################################################################################################
+02. Convertendo para contexto: 
+   [Commit: Contexto no React - Convertendo para contexto](https://github.com/rocketseat-education/02-ignite-timer/commit/6d5f964)
+
+Nessa aula vamos alterar o código que criamos com Prop-Drilling para utilizar um Contexto criaremos para compartilhar informações entre os componentes.
+
+####################################################################################################
+03. Contexto no formulário: 
+   [Commit: Contexto no React - Contexto no formulário](https://github.com/rocketseat-education/02-ignite-timer/commit/414d3f9)
+
+Agora que já temos o Contexto funcionando com o nosso Countdown, precisamos também utilizar esse contexto para o formulário de criação de ciclos.
+
+Nessa aula, iremos fazer nossa aplicação voltar funcionar só que utilizando a ContextAPI e também veremos algumas funcionalidades legais do react-hook-form.
+
+####################################################################################################
+04. Contexto entre rotas: 
+   [Commit: Contexto no React - Contexto entre rotas](https://github.com/rocketseat-education/02-ignite-timer/commit/bd207a1)
+
+Agora que nos aprofundamos mais no conceito de Contexto, nessa aula iremos aprender como deixar as informações dos Contextos disponíveis para que possam ser usadas em várias rotas da aplicação.
+
+####################################################################################################
+05. Reset do formulário: 
+   [Commit: Contexto no React - Reset do formulário](https://github.com/rocketseat-education/02-ignite-timer/commit/700c0b8)
+
+Nesta aula iremos criar uma nova função de reset para o formulário para que não seja necessário levar nenhuma biblioteca pra dentro do contexto.
+
+####################################################################################################
+06. Listagem do histórico: 
+   [Commit: Contexto no React - Listagem do histórico](https://github.com/rocketseat-education/02-ignite-timer/commit/df57616)
+
+Agora vamos partir pra listagem de todos os dados do Contexto no nosso histórico de forma dinâmica.
+
+####################################################################################################
+07. Formatação de data: 
+   [Commit: Contexto no React - Formatação de data](https://github.com/rocketseat-education/02-ignite-timer/commit/6e24e2a)
+
+Nesta aula iremos aprender a formatar a data de início utilizando o método `formatDaistanceToNow` da biblioteca `date-fns`.
+
+####################################################################################################
+01. Entendendo contextos: 
+   Vamos introduzir nessa aula um novo conceito, chamado de [Contextos no React](https://pt-br.reactjs.org/docs/context.html) e vamos criar nosso primeiro Contexto para entender seus principais conceitos e forma de utilização.
+
+####################################################################################################
+02. Convertendo para contexto: 
+   [Commit: Contexto no React - Convertendo para contexto](https://github.com/rocketseat-education/02-ignite-timer/commit/6d5f964)
+
+Nessa aula vamos alterar o código que criamos com Prop-Drilling para utilizar um Contexto criaremos para compartilhar informações entre os componentes.
+
+####################################################################################################
+03. Contexto no formulário: 
+   [Commit: Contexto no React - Contexto no formulário](https://github.com/rocketseat-education/02-ignite-timer/commit/414d3f9)
+
+Agora que já temos o Contexto funcionando com o nosso Countdown, precisamos também utilizar esse contexto para o formulário de criação de ciclos.
+
+Nessa aula, iremos fazer nossa aplicação voltar funcionar só que utilizando a ContextAPI e também veremos algumas funcionalidades legais do react-hook-form.
+
+####################################################################################################
+04. Contexto entre rotas: 
+   [Commit: Contexto no React - Contexto entre rotas](https://github.com/rocketseat-education/02-ignite-timer/commit/bd207a1)
+
+Agora que nos aprofundamos mais no conceito de Contexto, nessa aula iremos aprender como deixar as informações dos Contextos disponíveis para que possam ser usadas em várias rotas da aplicação.
+
+####################################################################################################
+05. Reset do formulário: 
+   [Commit: Contexto no React - Reset do formulário](https://github.com/rocketseat-education/02-ignite-timer/commit/700c0b8)
+
+Nesta aula iremos criar uma nova função de reset para o formulário para que não seja necessário levar nenhuma biblioteca pra dentro do contexto.
+
+####################################################################################################
+06. Listagem do histórico: 
+   [Commit: Contexto no React - Listagem do histórico](https://github.com/rocketseat-education/02-ignite-timer/commit/df57616)
+
+Agora vamos partir pra listagem de todos os dados do Contexto no nosso histórico de forma dinâmica.
+
+####################################################################################################
+07. Formatação de data: 
+   [Commit: Contexto no React - Formatação de data](https://github.com/rocketseat-education/02-ignite-timer/commit/6e24e2a)
+
+Nesta aula iremos aprender a formatar a data de início utilizando o método `formatDaistanceToNow` da biblioteca `date-fns`.
+
