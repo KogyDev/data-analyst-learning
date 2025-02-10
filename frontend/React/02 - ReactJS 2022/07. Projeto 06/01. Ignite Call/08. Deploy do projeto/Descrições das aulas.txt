@@ -1,0 +1,34 @@
+####################################################################################################
+01. Otimizacoes de SEO: 
+   [Commit: Deploy do projeto - Otimizações de SEO](https://github.com/rocketseat-education/06-ignite-call/commit/7f49f7e00f853c0408f66e9a29fc3c6e1f5def6e)
+
+Nessa aula iremos configurar a parte de SEO da nossa aplicação.
+
+####################################################################################################
+02. Deploy no Planetscale: 
+   [Commit: Deploy do projeto - Deploy no Planetscale](https://github.com/rocketseat-education/06-ignite-call/commit/e54caa85d82b6eaaf0afdca1e7854f354307f12a)
+
+Nessa aula iremos começar o deploy do banco de dados da nossa aplicação. 
+Para isso, iremos usar o serviço do PlanetScale.
+
+####################################################################################################
+03. Deploy na Vercel: 
+   Nessa aula nós vamos fazer o deploy do código dentro da Vercel.
+
+####################################################################################################
+01. Otimizacoes de SEO: 
+   [Commit: Deploy do projeto - Otimizações de SEO](https://github.com/rocketseat-education/06-ignite-call/commit/7f49f7e00f853c0408f66e9a29fc3c6e1f5def6e)
+
+Nessa aula iremos configurar a parte de SEO da nossa aplicação.
+
+####################################################################################################
+02. Deploy no Planetscale: 
+   [Commit: Deploy do projeto - Deploy no Planetscale](https://github.com/rocketseat-education/06-ignite-call/commit/e54caa85d82b6eaaf0afdca1e7854f354307f12a)
+
+Nessa aula iremos começar o deploy do banco de dados da nossa aplicação. 
+Para isso, iremos usar o serviço do PlanetScale.
+
+####################################################################################################
+03. Deploy na Vercel: 
+   Nessa aula nós vamos fazer o deploy do código dentro da Vercel.
+
