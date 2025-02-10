@@ -1,0 +1,24 @@
+####################################################################################################
+02. Aplicando Context Selectors: 
+   [Commit: Performance - Aplicando Context Selectors](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/464942ef48aff46aaa42090367cb15dc259d715f)
+
+####################################################################################################
+03. Aplicando o useCallback: 
+   [Commit: Performance - Aplicando o useCallback](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/45dae04d9cfdccb05e920a3eafd8452b0bf2c401)
+
+####################################################################################################
+05. Aplicando o useMemo: 
+   [Commit: Performance - Aplicando o useMemo](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/8c6a7025580a7bcb9190036d2816849720702697)
+
+####################################################################################################
+02. Aplicando Context Selectors: 
+   [Commit: Performance - Aplicando Context Selectors](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/464942ef48aff46aaa42090367cb15dc259d715f)
+
+####################################################################################################
+03. Aplicando o useCallback: 
+   [Commit: Performance - Aplicando o useCallback](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/45dae04d9cfdccb05e920a3eafd8452b0bf2c401)
+
+####################################################################################################
+05. Aplicando o useMemo: 
+   [Commit: Performance - Aplicando o useMemo](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/8c6a7025580a7bcb9190036d2816849720702697)
+
