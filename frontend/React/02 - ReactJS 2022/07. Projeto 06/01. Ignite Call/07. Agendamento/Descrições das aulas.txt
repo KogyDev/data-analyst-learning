@@ -1,0 +1,66 @@
+####################################################################################################
+01. Fluxo da confirmacao: 
+   [Commit: Agendamento - Fluxo da confirmação](https://github.com/rocketseat-education/06-ignite-call/commit/6f022b95aec0e5921ca05040f99e71c20544e00e)
+
+Nessa aula iremos finalizar todo o nosso fluxo de confirmação
+
+####################################################################################################
+02. Rota de agendamento: 
+   [Commit: Agendamento - Rota de agendamento](https://github.com/rocketseat-education/06-ignite-call/commit/44b9e339f8498160d5ae74cb5e30884811ec29c0)
+
+Nessa aula vamos criar a nossa rota dentro da api do Next.js para marcar o agendamento de um usuário específico.
+
+####################################################################################################
+03. Refresh de token do Google: 
+   [Commit: Agendamento - Refresh de token do Google](https://github.com/rocketseat-education/06-ignite-call/commit/7aca1b67ade3d07cc0817383ebcc20b5e3d407e4)
+
+Nessa aula iremos aprender a utilizar a estratégia de Refresh token pra garantir que o token do usuário seja sempre atualizado e não expire.
+
+####################################################################################################
+04. Configurando API do Google: 
+   [Commit: Agendamento - Configurando API do Google](https://github.com/rocketseat-education/06-ignite-call/commit/6fa20e172528856860c964e1b76c928a6cd18a96)
+
+Nessa aula iremos criar a configuração para trabalharmos com a API do Google.
+
+Comando de instalação:
+`npm i googleapis`
+
+####################################################################################################
+05. Criacao do evento no Google: 
+   [Commit: Agendamento - Criação do evento no Google](https://github.com/rocketseat-education/06-ignite-call/commit/e3c3550ed29f9ab81ae2c67cdfe1485f1274142c)
+
+Nessa aula iremos criar a lógica para que o evento agendado seja criado no calendário Google do usuário.
+
+####################################################################################################
+01. Fluxo da confirmacao: 
+   [Commit: Agendamento - Fluxo da confirmação](https://github.com/rocketseat-education/06-ignite-call/commit/6f022b95aec0e5921ca05040f99e71c20544e00e)
+
+Nessa aula iremos finalizar todo o nosso fluxo de confirmação
+
+####################################################################################################
+02. Rota de agendamento: 
+   [Commit: Agendamento - Rota de agendamento](https://github.com/rocketseat-education/06-ignite-call/commit/44b9e339f8498160d5ae74cb5e30884811ec29c0)
+
+Nessa aula vamos criar a nossa rota dentro da api do Next.js para marcar o agendamento de um usuário específico.
+
+####################################################################################################
+03. Refresh de token do Google: 
+   [Commit: Agendamento - Refresh de token do Google](https://github.com/rocketseat-education/06-ignite-call/commit/7aca1b67ade3d07cc0817383ebcc20b5e3d407e4)
+
+Nessa aula iremos aprender a utilizar a estratégia de Refresh token pra garantir que o token do usuário seja sempre atualizado e não expire.
+
+####################################################################################################
+04. Configurando API do Google: 
+   [Commit: Agendamento - Configurando API do Google](https://github.com/rocketseat-education/06-ignite-call/commit/6fa20e172528856860c964e1b76c928a6cd18a96)
+
+Nessa aula iremos criar a configuração para trabalharmos com a API do Google.
+
+Comando de instalação:
+`npm i googleapis`
+
+####################################################################################################
+05. Criacao do evento no Google: 
+   [Commit: Agendamento - Criação do evento no Google](https://github.com/rocketseat-education/06-ignite-call/commit/e3c3550ed29f9ab81ae2c67cdfe1485f1274142c)
+
+Nessa aula iremos criar a lógica para que o evento agendado seja criado no calendário Google do usuário.
+
