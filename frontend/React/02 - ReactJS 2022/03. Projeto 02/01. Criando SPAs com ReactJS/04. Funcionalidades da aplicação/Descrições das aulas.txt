@@ -1,0 +1,116 @@
+####################################################################################################
+01. Iniciando novo ciclo: 
+   [Commit: Funcionalidades da aplicação - Iniciando novo ciclo](https://github.com/rocketseat-education/02-ignite-timer/commit/cc3b38b)
+
+Nessa aula, vamos começar a adicionar funcionalidade na nossa aplicação.
+
+Vamos rever alguns conceitos importantes sobre estado, e já entender como será o fluxo para salvar os ciclos na nossa aplicação.
+
+####################################################################################################
+02. Criando countdown: 
+   [Commit: Funcionalidades da aplicação - Criando countdown](https://github.com/rocketseat-education/02-ignite-timer/commit/9f54db6)
+
+Agora que conseguimos tornar um ciclo em ativo, vamos criar o código responsável por calcular e exibir em tela o valor restante para finalização do ciclo.
+
+####################################################################################################
+03. O hook useEffect: 
+   Nessa aula, vamos conhecer um dos `hooks`  do ReactJS, que é o hook [useEffect](https://pt-br.reactjs.org/docs/hooks-effect.html).
+
+Veremos como sua utilização ajuda a gente a controlar efeitos colaterais da renderização do nosso componente.
+
+####################################################################################################
+04. Reduzindo countdown: 
+   [Commit: Funcionalidades da aplicação - Reduzindo countdown](https://github.com/rocketseat-education/02-ignite-timer/commit/fc38f9e)
+
+Vamos agora continuar o desenvolvimento do nosso countdown, criando a lógica responsável por diminuir o contador de tempo, e também adicionar uma funcionalidade que reflete o tempo restante no título da página.
+
+####################################################################################################
+05. Mudando title da página: 
+   [Commit: Funcionalidades da aplicação - Mudando title da página](https://github.com/rocketseat-education/02-ignite-timer/commit/58e3f85)
+
+Agora que conseguimos reduzir o countdown, percebemos que existem ainda alguns bugs que acontecem quando criamos mais de um ciclo. Nessa aula vamos corrigir esses bugs e também adicionar uma funcionalidade que reflete o tempo restante no título da página
+
+####################################################################################################
+06. Interromper ciclo: 
+   [Commit: Funcionalidades da aplicação - Interromper ciclo](https://github.com/rocketseat-education/02-ignite-timer/commit/5dd4e57)
+
+Nessa aula, vamos desenvolver a funcionalidade de interromper um ciclo para cadastrarmos um outro, e também anotar a data para manter um histórico de quando o ciclo foi interrompido.
+
+####################################################################################################
+07. Ciclo completo: 
+   [Commit: Funcionalidades da aplicação - Ciclo completo](https://github.com/rocketseat-education/02-ignite-timer/commit/d1ce9c7)
+
+Para também ter o histórico de todos os ciclos que foram completos, vamos agora desenvolver a funcionalidade que vai anotar a data de finalização de um ciclo quando ele chegar ao fim.
+
+####################################################################################################
+08. Separando componentes: 
+   [Commit: Funcionalidades da aplicação - Separando componentes](https://github.com/rocketseat-education/02-ignite-timer/commit/144d4ad)
+
+Agora vamos começar a criar uma organização melhor para o nosso projeto, para tirar toda a responsabilidade de somente da página Home e separar em diversos componentes que possuem responsabilidades diferentes.
+
+####################################################################################################
+09. Prop Drilling no React: 
+   [Commit: Funcionalidades da aplicação - Prop Drilling no React](https://github.com/rocketseat-education/02-ignite-timer/commit/34b30e9)
+
+O Prop Drilling é um termo utilizado para quando temos propriedades que estão se repassando em diversas camadas da nossa árvore de componentes.
+
+Nessa aula, vamos ver como isso pode ser prejudicial e entender melhor o problema.
+
+####################################################################################################
+01. Iniciando novo ciclo: 
+   [Commit: Funcionalidades da aplicação - Iniciando novo ciclo](https://github.com/rocketseat-education/02-ignite-timer/commit/cc3b38b)
+
+Nessa aula, vamos começar a adicionar funcionalidade na nossa aplicação.
+
+Vamos rever alguns conceitos importantes sobre estado, e já entender como será o fluxo para salvar os ciclos na nossa aplicação.
+
+####################################################################################################
+02. Criando countdown: 
+   [Commit: Funcionalidades da aplicação - Criando countdown](https://github.com/rocketseat-education/02-ignite-timer/commit/9f54db6)
+
+Agora que conseguimos tornar um ciclo em ativo, vamos criar o código responsável por calcular e exibir em tela o valor restante para finalização do ciclo.
+
+####################################################################################################
+03. O hook useEffect: 
+   Nessa aula, vamos conhecer um dos `hooks`  do ReactJS, que é o hook [useEffect](https://pt-br.reactjs.org/docs/hooks-effect.html).
+
+Veremos como sua utilização ajuda a gente a controlar efeitos colaterais da renderização do nosso componente.
+
+####################################################################################################
+04. Reduzindo countdown: 
+   [Commit: Funcionalidades da aplicação - Reduzindo countdown](https://github.com/rocketseat-education/02-ignite-timer/commit/fc38f9e)
+
+Vamos agora continuar o desenvolvimento do nosso countdown, criando a lógica responsável por diminuir o contador de tempo, e também adicionar uma funcionalidade que reflete o tempo restante no título da página.
+
+####################################################################################################
+05. Mudando title da página: 
+   [Commit: Funcionalidades da aplicação - Mudando title da página](https://github.com/rocketseat-education/02-ignite-timer/commit/58e3f85)
+
+Agora que conseguimos reduzir o countdown, percebemos que existem ainda alguns bugs que acontecem quando criamos mais de um ciclo. Nessa aula vamos corrigir esses bugs e também adicionar uma funcionalidade que reflete o tempo restante no título da página
+
+####################################################################################################
+06. Interromper ciclo: 
+   [Commit: Funcionalidades da aplicação - Interromper ciclo](https://github.com/rocketseat-education/02-ignite-timer/commit/5dd4e57)
+
+Nessa aula, vamos desenvolver a funcionalidade de interromper um ciclo para cadastrarmos um outro, e também anotar a data para manter um histórico de quando o ciclo foi interrompido.
+
+####################################################################################################
+07. Ciclo completo: 
+   [Commit: Funcionalidades da aplicação - Ciclo completo](https://github.com/rocketseat-education/02-ignite-timer/commit/d1ce9c7)
+
+Para também ter o histórico de todos os ciclos que foram completos, vamos agora desenvolver a funcionalidade que vai anotar a data de finalização de um ciclo quando ele chegar ao fim.
+
+####################################################################################################
+08. Separando componentes: 
+   [Commit: Funcionalidades da aplicação - Separando componentes](https://github.com/rocketseat-education/02-ignite-timer/commit/144d4ad)
+
+Agora vamos começar a criar uma organização melhor para o nosso projeto, para tirar toda a responsabilidade de somente da página Home e separar em diversos componentes que possuem responsabilidades diferentes.
+
+####################################################################################################
+09. Prop Drilling no React: 
+   [Commit: Funcionalidades da aplicação - Prop Drilling no React](https://github.com/rocketseat-education/02-ignite-timer/commit/34b30e9)
+
+O Prop Drilling é um termo utilizado para quando temos propriedades que estão se repassando em diversas camadas da nossa árvore de componentes.
+
+Nessa aula, vamos ver como isso pode ser prejudicial e entender melhor o problema.
+

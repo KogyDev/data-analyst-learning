@@ -1,0 +1,82 @@
+####################################################################################################
+02. Fundamentos do ReactJS: 
+   Nessa aula nós vamos conhecer os principais fundamentos do [ReactJS](https://reactjs.org/). 
+
+Veremos alguns conceitos que vão desde os princípios do ReactJS e suas finalidades, até conceitos como SPA vs SSR e comparações com aplicações tradicionais sem utilização do React.
+
+####################################################################################################
+03. Bundlers & Compilers: 
+   Com o mundo de desenvolvimento evoluindo à todo momento, nem sempre todos os browsers conseguem acompanhar a evolução da tecnologia para dar suporte à sintaxe mais moderna.
+
+Para isso existem os compilers, como o [babel](https://babeljs.io/) que convertem o código moderno para uma sintaxe mais antiga que os browsers reconhecem, e os bundlers como o [webpack](https://webpack.js.org/) que faz um bundling de todos os arquivos da nossa aplicação de uma forma que todos os browsers reconheçam.
+
+Nessa aula vamos aprender a diferença entre compilers e bundlers, e também sobre as novas features que já existem nos navegadores mais modernos, que é a feature de ESModules.
+
+Vamos também ter uma introdução ao [Vite](https://vitejs.dev/) que irá substituir os bundlers e compilers tradicionais (como babel e webpack) e entender como ele tira proveito das funcionalidades mais modernas dos navegadores para ter uma melhor performance de compilação e execução. 
+
+####################################################################################################
+04. Criando um projeto React: 
+   [Commit: Iniciando com React - Criando um projeto React](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/8da5cae)
+
+Nessa aula vamos ver como iniciar um projeto ReactJS utilizando o Vite, através do guia [Getting Started](https://vitejs.dev/guide/).
+
+Vamos, também, entender e limpar toda a estrutura da aplicação que é gerada por essa ferramenta para iniciar o desenvolvimento do nosso app. 
+
+####################################################################################################
+05. Componentes: 
+   [Commit: Iniciando com React - Componentes](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/977fc84)
+
+Agora que temos toda a estrutura do ReactJS pronta para desenvolver nosso app, vamos entender um dos conceitos mais importantes do ReactJS, que é a componentização.
+
+
+
+####################################################################################################
+06. Propriedades: 
+   [Commit: Iniciando com React - Propriedades](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/4f9f36d)
+
+Outro conceito super importante do React são as propriedades. 
+
+Nessa aula, vamos entender o que são as propriedades e começar a utilizá-las nos nossos componentes.
+
+
+####################################################################################################
+02. Fundamentos do ReactJS: 
+   Nessa aula nós vamos conhecer os principais fundamentos do [ReactJS](https://reactjs.org/). 
+
+Veremos alguns conceitos que vão desde os princípios do ReactJS e suas finalidades, até conceitos como SPA vs SSR e comparações com aplicações tradicionais sem utilização do React.
+
+####################################################################################################
+03. Bundlers & Compilers: 
+   Com o mundo de desenvolvimento evoluindo à todo momento, nem sempre todos os browsers conseguem acompanhar a evolução da tecnologia para dar suporte à sintaxe mais moderna.
+
+Para isso existem os compilers, como o [babel](https://babeljs.io/) que convertem o código moderno para uma sintaxe mais antiga que os browsers reconhecem, e os bundlers como o [webpack](https://webpack.js.org/) que faz um bundling de todos os arquivos da nossa aplicação de uma forma que todos os browsers reconheçam.
+
+Nessa aula vamos aprender a diferença entre compilers e bundlers, e também sobre as novas features que já existem nos navegadores mais modernos, que é a feature de ESModules.
+
+Vamos também ter uma introdução ao [Vite](https://vitejs.dev/) que irá substituir os bundlers e compilers tradicionais (como babel e webpack) e entender como ele tira proveito das funcionalidades mais modernas dos navegadores para ter uma melhor performance de compilação e execução. 
+
+####################################################################################################
+04. Criando um projeto React: 
+   [Commit: Iniciando com React - Criando um projeto React](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/8da5cae)
+
+Nessa aula vamos ver como iniciar um projeto ReactJS utilizando o Vite, através do guia [Getting Started](https://vitejs.dev/guide/).
+
+Vamos, também, entender e limpar toda a estrutura da aplicação que é gerada por essa ferramenta para iniciar o desenvolvimento do nosso app. 
+
+####################################################################################################
+05. Componentes: 
+   [Commit: Iniciando com React - Componentes](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/977fc84)
+
+Agora que temos toda a estrutura do ReactJS pronta para desenvolver nosso app, vamos entender um dos conceitos mais importantes do ReactJS, que é a componentização.
+
+
+
+####################################################################################################
+06. Propriedades: 
+   [Commit: Iniciando com React - Propriedades](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/4f9f36d)
+
+Outro conceito super importante do React são as propriedades. 
+
+Nessa aula, vamos entender o que são as propriedades e começar a utilizá-las nos nossos componentes.
+
+

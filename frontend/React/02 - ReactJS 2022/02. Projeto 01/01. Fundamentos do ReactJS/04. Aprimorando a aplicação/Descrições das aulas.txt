@@ -1,0 +1,40 @@
+####################################################################################################
+01. Fundamentos do TypeScript: 
+   Nessa aula vamos começar a entender o que é [TypeScript](https://www.typescriptlang.org/), o motivo de a gente utilizá-lo e entender como a tipagem estática pode ajudar o nosso processo de desenvolvimento e até mesmo nossa produtividade.
+
+####################################################################################################
+02. TypeScript no React: 
+   [Commit: Aprimorando a aplicação - TypeScript no React](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/293f136)
+
+Agora que já vimos o que é o TypeScript, vamos migrar o nosso projeto para utilizar TypeScript.
+
+Vamos fazer isso criando um novo projeto Vite com a configuração react-ts, que já configura o TypeScript automaticamente pra gente.
+
+Vamos também começar a migrar nossos componentes já criados para TypeScript.
+
+####################################################################################################
+03. Extensão de interfaces: 
+   [Commit: Aprimorando a aplicação - Extensão de interfaces](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/ee81731f0bea5d026652c3d3760a578f0408e790)
+
+Agora que migramos nossos componentes para TypeScript, entraremos ainda mais fundo nas funcionalidades do TypeScript para entender como extender interfaces para que o TypeScript entenda ainda melhor o que os nossos componentes podem receber como propriedade.
+
+####################################################################################################
+01. Fundamentos do TypeScript: 
+   Nessa aula vamos começar a entender o que é [TypeScript](https://www.typescriptlang.org/), o motivo de a gente utilizá-lo e entender como a tipagem estática pode ajudar o nosso processo de desenvolvimento e até mesmo nossa produtividade.
+
+####################################################################################################
+02. TypeScript no React: 
+   [Commit: Aprimorando a aplicação - TypeScript no React](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/293f136)
+
+Agora que já vimos o que é o TypeScript, vamos migrar o nosso projeto para utilizar TypeScript.
+
+Vamos fazer isso criando um novo projeto Vite com a configuração react-ts, que já configura o TypeScript automaticamente pra gente.
+
+Vamos também começar a migrar nossos componentes já criados para TypeScript.
+
+####################################################################################################
+03. Extensão de interfaces: 
+   [Commit: Aprimorando a aplicação - Extensão de interfaces](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/ee81731f0bea5d026652c3d3760a578f0408e790)
+
+Agora que migramos nossos componentes para TypeScript, entraremos ainda mais fundo nas funcionalidades do TypeScript para entender como extender interfaces para que o TypeScript entenda ainda melhor o que os nossos componentes podem receber como propriedade.
+
