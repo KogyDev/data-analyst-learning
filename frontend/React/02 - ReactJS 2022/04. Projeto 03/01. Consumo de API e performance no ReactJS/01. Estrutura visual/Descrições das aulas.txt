@@ -1,0 +1,122 @@
+####################################################################################################
+03. Setup do projeto: 
+   [Commit: Estrutura visual - Setup do projeto](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/538d7152017d388578ce64a4cd5196c34d104f83)
+
+Segue abaixo o conteúdo do arquivo `src/styles/themes/default.ts`.
+
+```ts
+export const defaultTheme = {
+  white: '#fff',
+
+  'gray-100': '#E1E1E6',
+  'gray-300': '#C4C4CC',
+  'gray-400': '#8D8D99',
+  'gray-500': '#7C7C8A',
+  'gray-600': '#323238',
+  'gray-700': '#29292E',
+  'gray-800': '#202024',
+  'gray-900': '#121214',
+
+  'green-300': '#00B37E',
+  'green-500': '#00875F',
+  'green-700': '#015F43',
+
+  'red-300': '#F75A68',
+  'red-500': '#AB222E',
+  'red-700': '#7A1921',
+} as const
+```
+
+####################################################################################################
+04. Componente - Header: 
+   [Commit: Estrutura visual - Componente: Header](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/298a825f6f158308164ae30cc2b264f230d060c3)
+
+####################################################################################################
+05. Componente - Summary: 
+   [Commit: Estrutura visual - Componente: Summary](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/043536d33769d337d0ed69be186ea78ae7695c0a)
+
+####################################################################################################
+06. Tabela de transacoes: 
+   [Commit: Estrutura visual - Tabela de transações](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/5bd5133e98c54a90607d5447314fc186aa000f53)
+
+####################################################################################################
+07. Componente - SearchForm: 
+   [Commit: Estrutura visual - Componente: SearchForm](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/1ba3db87e33d7963341f02ee307ff2fc3a2d5f70)
+
+####################################################################################################
+08. Criando um modal acessivel: 
+   [Commit: Estrutura visual - Criando um modal acessível](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/03d5d35b7fc917060ce0876d5ee2696a59e5e234)
+
+####################################################################################################
+09. Modal de nova transacao: 
+   [Commit: Estrutura visual - Modal de nova transação](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/d36d1e99a4814cc97d76b3493a25e82aa7101951)
+
+####################################################################################################
+10. Botoes de entrada e saida: 
+   [Commit: Estrutura visual - Botões de entrada e saída](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/a28279b76be5d40a6cc0f7ba32dc213daba0d6b3)
+
+####################################################################################################
+11. Criando radio button acessivel: 
+   [Commit: Estrutura visual - Criando radio button acessível](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/14bb8a7d97b761bacafb53cef1d6b66e4aa14038)
+
+####################################################################################################
+03. Setup do projeto: 
+   [Commit: Estrutura visual - Setup do projeto](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/538d7152017d388578ce64a4cd5196c34d104f83)
+
+Segue abaixo o conteúdo do arquivo `src/styles/themes/default.ts`.
+
+```ts
+export const defaultTheme = {
+  white: '#fff',
+
+  'gray-100': '#E1E1E6',
+  'gray-300': '#C4C4CC',
+  'gray-400': '#8D8D99',
+  'gray-500': '#7C7C8A',
+  'gray-600': '#323238',
+  'gray-700': '#29292E',
+  'gray-800': '#202024',
+  'gray-900': '#121214',
+
+  'green-300': '#00B37E',
+  'green-500': '#00875F',
+  'green-700': '#015F43',
+
+  'red-300': '#F75A68',
+  'red-500': '#AB222E',
+  'red-700': '#7A1921',
+} as const
+```
+
+####################################################################################################
+04. Componente - Header: 
+   [Commit: Estrutura visual - Componente: Header](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/298a825f6f158308164ae30cc2b264f230d060c3)
+
+####################################################################################################
+05. Componente - Summary: 
+   [Commit: Estrutura visual - Componente: Summary](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/043536d33769d337d0ed69be186ea78ae7695c0a)
+
+####################################################################################################
+06. Tabela de transacoes: 
+   [Commit: Estrutura visual - Tabela de transações](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/5bd5133e98c54a90607d5447314fc186aa000f53)
+
+####################################################################################################
+07. Componente - SearchForm: 
+   [Commit: Estrutura visual - Componente: SearchForm](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/1ba3db87e33d7963341f02ee307ff2fc3a2d5f70)
+
+####################################################################################################
+08. Criando um modal acessivel: 
+   [Commit: Estrutura visual - Criando um modal acessível](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/03d5d35b7fc917060ce0876d5ee2696a59e5e234)
+
+####################################################################################################
+09. Modal de nova transacao: 
+   [Commit: Estrutura visual - Modal de nova transação](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/d36d1e99a4814cc97d76b3493a25e82aa7101951)
+
+####################################################################################################
+10. Botoes de entrada e saida: 
+   [Commit: Estrutura visual - Botões de entrada e saída](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/a28279b76be5d40a6cc0f7ba32dc213daba0d6b3)
+
+####################################################################################################
+11. Criando radio button acessivel: 
+   [Commit: Estrutura visual - Criando radio button acessível](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/14bb8a7d97b761bacafb53cef1d6b66e4aa14038)
+

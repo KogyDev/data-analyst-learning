@@ -1,0 +1,96 @@
+####################################################################################################
+01. Configurando JSON Server: 
+   [Commit: Conexão com a API - Configurando JSON Server](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/d6085ce590508a543af916856c23d33e68019b9d)
+
+####################################################################################################
+02. Realizando requisicao HTTP: 
+   [Commit: Conexão com a API - Realizando requisição HTTP](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/fa17809996ffd88e3b7490b3f8e2ea86d626e538)
+
+####################################################################################################
+03. Criando contexto de transacoes: 
+   [Commit: Conexão com a API - Criando contexto de transações](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/c6ae316943eceec5e5a158a398d3639becfa1cc2)
+
+####################################################################################################
+04. Calculando resumo de transacoes: 
+   [Commit: Conexão com a API - Calculando resumo de transações](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/29ab1950d18bc9d04c91329733eef6036323d1a9)
+
+####################################################################################################
+05. Formatando valores: 
+   [Commit: Conexão com a API - Formatando valores](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/890e35cb3ebffa1b046f85402335baf7325c5c73)
+
+####################################################################################################
+06. Criando hook para o resumo: 
+   [Commit: Conexão com a API - Criando hook para o resumo](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/6616bda21392ba3be5b9d2ba0098c48dc10217c4)
+
+####################################################################################################
+07. Aplicando React Hook Form: 
+   [Commit: Conexão com a API - Aplicando React Hook Form](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/586581315b4482d2b204d5911874a8b61431fa25)
+
+####################################################################################################
+08. Controlled components: 
+   [Commit: Conexão com a API - Controlled components](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/fe3114b73e51e0195ba48cb80c74133986e5f5c0)
+
+####################################################################################################
+09. Buscando transacoes: 
+   [Commit: Conexão com a API - Buscando transações](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/54f0068bb59b6e52f5728e79df989aecce768c04)
+
+####################################################################################################
+10. Configurando Axios: 
+   [Commit: Conexão com a API - Configurando Axios](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/2ed13fc83550deed7502a19f8a3f016d75f1bcd1)
+
+####################################################################################################
+11. Criando nova transacao: 
+   [Commit: Conexão com a API - Criando nova transação](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/7dad2f19b15d8c8a61f8b67300e6d279d875c9cb)
+
+####################################################################################################
+12. Corrigindo erros de linting: 
+   [Commit: Conexão com a API - Corrigindo erros de linting](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/049413201dd8780c2310fd84528ddbc5a6e3a0d6)
+
+####################################################################################################
+01. Configurando JSON Server: 
+   [Commit: Conexão com a API - Configurando JSON Server](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/d6085ce590508a543af916856c23d33e68019b9d)
+
+####################################################################################################
+02. Realizando requisicao HTTP: 
+   [Commit: Conexão com a API - Realizando requisição HTTP](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/fa17809996ffd88e3b7490b3f8e2ea86d626e538)
+
+####################################################################################################
+03. Criando contexto de transacoes: 
+   [Commit: Conexão com a API - Criando contexto de transações](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/c6ae316943eceec5e5a158a398d3639becfa1cc2)
+
+####################################################################################################
+04. Calculando resumo de transacoes: 
+   [Commit: Conexão com a API - Calculando resumo de transações](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/29ab1950d18bc9d04c91329733eef6036323d1a9)
+
+####################################################################################################
+05. Formatando valores: 
+   [Commit: Conexão com a API - Formatando valores](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/890e35cb3ebffa1b046f85402335baf7325c5c73)
+
+####################################################################################################
+06. Criando hook para o resumo: 
+   [Commit: Conexão com a API - Criando hook para o resumo](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/6616bda21392ba3be5b9d2ba0098c48dc10217c4)
+
+####################################################################################################
+07. Aplicando React Hook Form: 
+   [Commit: Conexão com a API - Aplicando React Hook Form](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/586581315b4482d2b204d5911874a8b61431fa25)
+
+####################################################################################################
+08. Controlled components: 
+   [Commit: Conexão com a API - Controlled components](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/fe3114b73e51e0195ba48cb80c74133986e5f5c0)
+
+####################################################################################################
+09. Buscando transacoes: 
+   [Commit: Conexão com a API - Buscando transações](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/54f0068bb59b6e52f5728e79df989aecce768c04)
+
+####################################################################################################
+10. Configurando Axios: 
+   [Commit: Conexão com a API - Configurando Axios](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/2ed13fc83550deed7502a19f8a3f016d75f1bcd1)
+
+####################################################################################################
+11. Criando nova transacao: 
+   [Commit: Conexão com a API - Criando nova transação](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/7dad2f19b15d8c8a61f8b67300e6d279d875c9cb)
+
+####################################################################################################
+12. Corrigindo erros de linting: 
+   [Commit: Conexão com a API - Corrigindo erros de linting](https://github.com/rocketseat-education/ignite-reactjs-03-dt-money/commit/049413201dd8780c2310fd84528ddbc5a6e3a0d6)
+
