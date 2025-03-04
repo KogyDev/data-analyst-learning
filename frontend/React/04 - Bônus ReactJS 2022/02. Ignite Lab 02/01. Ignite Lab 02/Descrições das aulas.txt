@@ -1,0 +1,171 @@
+01. Ignite Lab 1.0  -  Aula 1 • O início da especialização em ReactJS: 
+   Na aula 1 você vai entender quais são as oportunidades que você pode ter se especializando em ReactJS e porque essa é a decisão mais inteligente pra sua carreira no momento!
+
+E também vamos dar início ao projeto que vamos desenvolver nessa semana: uma plataforma de conteúdos em vídeo. Bora codar!
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.02. Ignite Lab 1.0  -  Aula 2 • Estrutura visual do projeto: 
+   Ignite Lab ReactJS | Aula 2 • Estrutura visual do projeto
+
+Nessa aula nós vamos desenvolver a estrutura visual do projeto e nos aprofundar mais ainda nos conceitos e oportunidades que você vai ter por virar um especialista em ReactJS. Recomendo que você foque muito para chegar até o final da missão e desenvolver a aplicação completa \o
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.03. Ignite Lab 1.0  -  Aula 3 • Roteamento e player da aula: 
+   Chegamos na metade do nosso evento, mas ainda tem mais pela frente…Na terceira aula vamos continuar nosso projeto, desenvolvendo o roteamento e player. Essa é mais uma etapa para sua especialização em React!
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.04. Ignite Lab 1.0  -  Aula 4 • Inscrição via GraphQL: 
+   Nesta aula iremos fazer a inscrição de nossa página utilizando o GraphQL!
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.05. Ignite Lab 1.0  -  Aula 5 • Deploy, CodeGen e próximos passos: 
+   Bora finalizar a aplicação? Na aula de hoje vamos fazer o Deploy e CodeGen do projeto. Você também vai saber quais são os próximos passos para você se especializar nas tecnologias mais demandadas e acessar as melhores oportunidades da programação.
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.01. Ignite Lab 1.0  -  Aula 1 • O início da especialização em ReactJS: 
+   Na aula 1 você vai entender quais são as oportunidades que você pode ter se especializando em ReactJS e porque essa é a decisão mais inteligente pra sua carreira no momento!
+
+E também vamos dar início ao projeto que vamos desenvolver nessa semana: uma plataforma de conteúdos em vídeo. Bora codar!
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.02. Ignite Lab 1.0  -  Aula 2 • Estrutura visual do projeto: 
+   Ignite Lab ReactJS | Aula 2 • Estrutura visual do projeto
+
+Nessa aula nós vamos desenvolver a estrutura visual do projeto e nos aprofundar mais ainda nos conceitos e oportunidades que você vai ter por virar um especialista em ReactJS. Recomendo que você foque muito para chegar até o final da missão e desenvolver a aplicação completa \o
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.03. Ignite Lab 1.0  -  Aula 3 • Roteamento e player da aula: 
+   Chegamos na metade do nosso evento, mas ainda tem mais pela frente…Na terceira aula vamos continuar nosso projeto, desenvolvendo o roteamento e player. Essa é mais uma etapa para sua especialização em React!
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.04. Ignite Lab 1.0  -  Aula 4 • Inscrição via GraphQL: 
+   Nesta aula iremos fazer a inscrição de nossa página utilizando o GraphQL!
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.05. Ignite Lab 1.0  -  Aula 5 • Deploy, CodeGen e próximos passos: 
+   Bora finalizar a aplicação? Na aula de hoje vamos fazer o Deploy e CodeGen do projeto. Você também vai saber quais são os próximos passos para você se especializar nas tecnologias mais demandadas e acessar as melhores oportunidades da programação.
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.01. Ignite Lab 1.0  -  Aula 1 • O início da especialização em ReactJS: 
+   Na aula 1 você vai entender quais são as oportunidades que você pode ter se especializando em ReactJS e porque essa é a decisão mais inteligente pra sua carreira no momento!
+
+E também vamos dar início ao projeto que vamos desenvolver nessa semana: uma plataforma de conteúdos em vídeo. Bora codar!
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.02. Ignite Lab 1.0  -  Aula 2 • Estrutura visual do projeto: 
+   Ignite Lab ReactJS | Aula 2 • Estrutura visual do projeto
+
+Nessa aula nós vamos desenvolver a estrutura visual do projeto e nos aprofundar mais ainda nos conceitos e oportunidades que você vai ter por virar um especialista em ReactJS. Recomendo que você foque muito para chegar até o final da missão e desenvolver a aplicação completa \o
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.03. Ignite Lab 1.0  -  Aula 3 • Roteamento e player da aula: 
+   Chegamos na metade do nosso evento, mas ainda tem mais pela frente…Na terceira aula vamos continuar nosso projeto, desenvolvendo o roteamento e player. Essa é mais uma etapa para sua especialização em React!
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.04. Ignite Lab 1.0  -  Aula 4 • Inscrição via GraphQL: 
+   Nesta aula iremos fazer a inscrição de nossa página utilizando o GraphQL!
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.05. Ignite Lab 1.0  -  Aula 5 • Deploy, CodeGen e próximos passos: 
+   Bora finalizar a aplicação? Na aula de hoje vamos fazer o Deploy e CodeGen do projeto. Você também vai saber quais são os próximos passos para você se especializar nas tecnologias mais demandadas e acessar as melhores oportunidades da programação.
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.01. Ignite Lab 1.0  -  Aula 1 • O início da especialização em ReactJS: 
+   Na aula 1 você vai entender quais são as oportunidades que você pode ter se especializando em ReactJS e porque essa é a decisão mais inteligente pra sua carreira no momento!
+
+E também vamos dar início ao projeto que vamos desenvolver nessa semana: uma plataforma de conteúdos em vídeo. Bora codar!
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.02. Ignite Lab 1.0  -  Aula 2 • Estrutura visual do projeto: 
+   Ignite Lab ReactJS | Aula 2 • Estrutura visual do projeto
+
+Nessa aula nós vamos desenvolver a estrutura visual do projeto e nos aprofundar mais ainda nos conceitos e oportunidades que você vai ter por virar um especialista em ReactJS. Recomendo que você foque muito para chegar até o final da missão e desenvolver a aplicação completa \o
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.03. Ignite Lab 1.0  -  Aula 3 • Roteamento e player da aula: 
+   Chegamos na metade do nosso evento, mas ainda tem mais pela frente…Na terceira aula vamos continuar nosso projeto, desenvolvendo o roteamento e player. Essa é mais uma etapa para sua especialização em React!
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.04. Ignite Lab 1.0  -  Aula 4 • Inscrição via GraphQL: 
+   Nesta aula iremos fazer a inscrição de nossa página utilizando o GraphQL!
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.05. Ignite Lab 1.0  -  Aula 5 • Deploy, CodeGen e próximos passos: 
+   Bora finalizar a aplicação? Na aula de hoje vamos fazer o Deploy e CodeGen do projeto. Você também vai saber quais são os próximos passos para você se especializar nas tecnologias mais demandadas e acessar as melhores oportunidades da programação.
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.01. Ignite Lab 1.0  -  Aula 1 • O início da especialização em ReactJS: 
+   Na aula 1 você vai entender quais são as oportunidades que você pode ter se especializando em ReactJS e porque essa é a decisão mais inteligente pra sua carreira no momento!
+
+E também vamos dar início ao projeto que vamos desenvolver nessa semana: uma plataforma de conteúdos em vídeo. Bora codar!
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.02. Ignite Lab 1.0  -  Aula 2 • Estrutura visual do projeto: 
+   Ignite Lab ReactJS | Aula 2 • Estrutura visual do projeto
+
+Nessa aula nós vamos desenvolver a estrutura visual do projeto e nos aprofundar mais ainda nos conceitos e oportunidades que você vai ter por virar um especialista em ReactJS. Recomendo que você foque muito para chegar até o final da missão e desenvolver a aplicação completa \o
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.03. Ignite Lab 1.0  -  Aula 3 • Roteamento e player da aula: 
+   Chegamos na metade do nosso evento, mas ainda tem mais pela frente…Na terceira aula vamos continuar nosso projeto, desenvolvendo o roteamento e player. Essa é mais uma etapa para sua especialização em React!
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.04. Ignite Lab 1.0  -  Aula 4 • Inscrição via GraphQL: 
+   Nesta aula iremos fazer a inscrição de nossa página utilizando o GraphQL!
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.05. Ignite Lab 1.0  -  Aula 5 • Deploy, CodeGen e próximos passos: 
+   Bora finalizar a aplicação? Na aula de hoje vamos fazer o Deploy e CodeGen do projeto. Você também vai saber quais são os próximos passos para você se especializar nas tecnologias mais demandadas e acessar as melhores oportunidades da programação.
+
+**Material Complementar:**[https://rseat.in/ignitelabreactjs](https://rseat.in/ignitelabreactjs)
+
+**O que foi?**
+O **Ignite Lab ReactJS** aconteceu em Junho de 2022, durante uma semana de conteúdos para comemorar a regravação de aulas de ReactJS no Ignite.
