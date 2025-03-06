@@ -1,0 +1,156 @@
+####################################################################################################
+01. Navegação via Link: 
+   [Commit: Produto & Checkout - Navegação via Link](https://github.com/rocketseat-education/04-ignite-shop/commit/65d18dc56523aa9ae402826885035cf392bee1b7)
+
+Nessa aula vamos entender sobre como a navegação funciona no NextJS, e como podemos utilizar as ferramentas que o NextJS provém para ter uma navegação melhor na nossa aplicação.
+
+####################################################################################################
+02. Estrutura da página de produto: 
+   [Commit: Produto & Checkout - Estrutura da página de produto](https://github.com/rocketseat-education/04-ignite-shop/commit/9b2bcf9043d4bd6869bb4a1c9d7a731c512677e1)
+
+Agora vamos criar a estrutura visual da página de produto, para preparar a página para receber as funcionalidades.
+
+####################################################################################################
+03. Carregando dados do produto: 
+   [Commit: Produto & Checkout - Caregando dados do produto](https://github.com/rocketseat-education/04-ignite-shop/commit/f92817b4b66801446da47ebd6f18430a148a9ce1)
+
+Nessa aula vamos entender como criar páginas dinâmicas no NextJS à partir do parâmetro enviado a ela, e carregaremos os dados dos nossos produtos dessa maneira utilizando o conceito de SSG.
+
+####################################################################################################
+04. SSG com parâmetro dinâmico: 
+   [Commit: Produto & Checkout - SSG com parâmetro dinâmico](https://github.com/rocketseat-education/04-ignite-shop/commit/0570382a0ecbc66ad5bb5c6fa0ecde6af0d3b4a9)
+
+Nessa aula vamos começar a entender as especificidades do NextJS sobre a geração de páginas estáticas com parâmetros dinâmicos, e conhecer o método `getStaticPaths` que especifica quais páginas devem ser geradas durante o build do nosso app.
+
+####################################################################################################
+05. Fallback do SSG: 
+   [Commit: Produto & Checkout - Fallback do SSG](https://github.com/rocketseat-education/04-ignite-shop/commit/190124c123ae08a14e3902c4d5641bb67f3cd8cb)
+
+Nessa aula entenderemos o que é o parâmetro `fallback` do método `getStaticPaths` e estratégias de geração de páginas estáticas que recebem parâmetros dinâmicos.
+
+####################################################################################################
+06. Prefetch de links: 
+   [Commit: Produto & Checkout - Prefetch de links](https://github.com/rocketseat-education/04-ignite-shop/commit/d1c2d66d8782e41091822cbc3a6a93bae20a8012)
+
+Agora vamos conhecer mais uma feature do NextJS, que é um prefetch de páginas à partir do Link.
+
+####################################################################################################
+07. API routes no Next.js: 
+   [Commit: Produto & Checkout - API routes no Next.js](https://github.com/rocketseat-education/04-ignite-shop/commit/a4a11c61ebbdcb119a9176f29d98f7c326ac7e55)
+
+Nessa aula vamos entender o que são as API routes, e como criar rotas que funcionam como uma rota back-end para podermos realizar ações a partir do server-side.
+
+####################################################################################################
+08. Checkout no Stripe: 
+   [Commit: Produto & Checkout - Checkout no Stripe](https://github.com/rocketseat-education/04-ignite-shop/commit/b71f1a9715d45188edfeacede1f5368da347d2b0)
+
+Agora que já sabemos como criar as rotas server-side, vamos utilizar dessas rotas para criar uma sessão de checkout no stripe para a finalização da compra pelo Stripe.
+
+####################################################################################################
+09. Botão de comprar: 
+   [Commit: Produto & Checkout - Botão de comprar](https://github.com/rocketseat-education/04-ignite-shop/commit/b02e538f683a0a91feaff942f0041279a09049a8)
+
+Nessa aula vamos integrar todas as funcionalidades da nossa aplicação, criando um checkout à partir do ID do produto selecionado.
+
+####################################################################################################
+10. Estrutura de sucesso: 
+   [Commit: Produto & Checkout - Estrutura de sucesso](https://github.com/rocketseat-education/04-ignite-shop/commit/4a6ba5fd0f2146e9b438846c880e0f2a04fcf35f)
+
+Agora vamos estilizar a nossa página de sucesso para preparar ela para receber os dados após a compra.
+
+####################################################################################################
+11. Dados da compra no sucesso: 
+   [Commit: Produto & Checkout - Dados da compra no sucesso](https://github.com/rocketseat-education/04-ignite-shop/commit/1b0e4c0e007edf5f3a30204c9ab005e4bbef5aa9)
+
+Nessa aula, nós vamos recuperar os dados da compra e inseri-los dentro da página de sucesso para exibir o sucesso da compra com os dados da API.
+
+####################################################################################################
+12. Redirect no SSR: 
+   [Commit: Produto & Checkout - Redirect no SSR](https://github.com/rocketseat-education/04-ignite-shop/commit/2fea37f9a176dc35650faa8769a68b7d0cb17f00)
+
+Nessa aula, vamos configurar nossa página de sucesso para fazer um redirecionamento pelo lado do servidor quando um ID não for informado.
+
+####################################################################################################
+13. Trabalhando com SEO: 
+   [Commit: Produto & Checkout - Trabalhando com SEO](https://github.com/rocketseat-education/04-ignite-shop/commit/5fa0b799e175ab3538ebfb0199b74804a93b6126)
+
+Nessa aula entederemos como trabalhar com metatags nas páginas da nossa aplicação, e como configurar esses atributos em cada página.
+
+####################################################################################################
+01. Navegação via Link: 
+   [Commit: Produto & Checkout - Navegação via Link](https://github.com/rocketseat-education/04-ignite-shop/commit/65d18dc56523aa9ae402826885035cf392bee1b7)
+
+Nessa aula vamos entender sobre como a navegação funciona no NextJS, e como podemos utilizar as ferramentas que o NextJS provém para ter uma navegação melhor na nossa aplicação.
+
+####################################################################################################
+02. Estrutura da página de produto: 
+   [Commit: Produto & Checkout - Estrutura da página de produto](https://github.com/rocketseat-education/04-ignite-shop/commit/9b2bcf9043d4bd6869bb4a1c9d7a731c512677e1)
+
+Agora vamos criar a estrutura visual da página de produto, para preparar a página para receber as funcionalidades.
+
+####################################################################################################
+03. Carregando dados do produto: 
+   [Commit: Produto & Checkout - Caregando dados do produto](https://github.com/rocketseat-education/04-ignite-shop/commit/f92817b4b66801446da47ebd6f18430a148a9ce1)
+
+Nessa aula vamos entender como criar páginas dinâmicas no NextJS à partir do parâmetro enviado a ela, e carregaremos os dados dos nossos produtos dessa maneira utilizando o conceito de SSG.
+
+####################################################################################################
+04. SSG com parâmetro dinâmico: 
+   [Commit: Produto & Checkout - SSG com parâmetro dinâmico](https://github.com/rocketseat-education/04-ignite-shop/commit/0570382a0ecbc66ad5bb5c6fa0ecde6af0d3b4a9)
+
+Nessa aula vamos começar a entender as especificidades do NextJS sobre a geração de páginas estáticas com parâmetros dinâmicos, e conhecer o método `getStaticPaths` que especifica quais páginas devem ser geradas durante o build do nosso app.
+
+####################################################################################################
+05. Fallback do SSG: 
+   [Commit: Produto & Checkout - Fallback do SSG](https://github.com/rocketseat-education/04-ignite-shop/commit/190124c123ae08a14e3902c4d5641bb67f3cd8cb)
+
+Nessa aula entenderemos o que é o parâmetro `fallback` do método `getStaticPaths` e estratégias de geração de páginas estáticas que recebem parâmetros dinâmicos.
+
+####################################################################################################
+06. Prefetch de links: 
+   [Commit: Produto & Checkout - Prefetch de links](https://github.com/rocketseat-education/04-ignite-shop/commit/d1c2d66d8782e41091822cbc3a6a93bae20a8012)
+
+Agora vamos conhecer mais uma feature do NextJS, que é um prefetch de páginas à partir do Link.
+
+####################################################################################################
+07. API routes no Next.js: 
+   [Commit: Produto & Checkout - API routes no Next.js](https://github.com/rocketseat-education/04-ignite-shop/commit/a4a11c61ebbdcb119a9176f29d98f7c326ac7e55)
+
+Nessa aula vamos entender o que são as API routes, e como criar rotas que funcionam como uma rota back-end para podermos realizar ações a partir do server-side.
+
+####################################################################################################
+08. Checkout no Stripe: 
+   [Commit: Produto & Checkout - Checkout no Stripe](https://github.com/rocketseat-education/04-ignite-shop/commit/b71f1a9715d45188edfeacede1f5368da347d2b0)
+
+Agora que já sabemos como criar as rotas server-side, vamos utilizar dessas rotas para criar uma sessão de checkout no stripe para a finalização da compra pelo Stripe.
+
+####################################################################################################
+09. Botão de comprar: 
+   [Commit: Produto & Checkout - Botão de comprar](https://github.com/rocketseat-education/04-ignite-shop/commit/b02e538f683a0a91feaff942f0041279a09049a8)
+
+Nessa aula vamos integrar todas as funcionalidades da nossa aplicação, criando um checkout à partir do ID do produto selecionado.
+
+####################################################################################################
+10. Estrutura de sucesso: 
+   [Commit: Produto & Checkout - Estrutura de sucesso](https://github.com/rocketseat-education/04-ignite-shop/commit/4a6ba5fd0f2146e9b438846c880e0f2a04fcf35f)
+
+Agora vamos estilizar a nossa página de sucesso para preparar ela para receber os dados após a compra.
+
+####################################################################################################
+11. Dados da compra no sucesso: 
+   [Commit: Produto & Checkout - Dados da compra no sucesso](https://github.com/rocketseat-education/04-ignite-shop/commit/1b0e4c0e007edf5f3a30204c9ab005e4bbef5aa9)
+
+Nessa aula, nós vamos recuperar os dados da compra e inseri-los dentro da página de sucesso para exibir o sucesso da compra com os dados da API.
+
+####################################################################################################
+12. Redirect no SSR: 
+   [Commit: Produto & Checkout - Redirect no SSR](https://github.com/rocketseat-education/04-ignite-shop/commit/2fea37f9a176dc35650faa8769a68b7d0cb17f00)
+
+Nessa aula, vamos configurar nossa página de sucesso para fazer um redirecionamento pelo lado do servidor quando um ID não for informado.
+
+####################################################################################################
+13. Trabalhando com SEO: 
+   [Commit: Produto & Checkout - Trabalhando com SEO](https://github.com/rocketseat-education/04-ignite-shop/commit/5fa0b799e175ab3538ebfb0199b74804a93b6126)
+
+Nessa aula entederemos como trabalhar com metatags nas páginas da nossa aplicação, e como configurar esses atributos em cada página.
+
