@@ -1,0 +1,48 @@
+####################################################################################################
+01. Publicando Storybook: 
+   [Commit: Publicação e manutenção - Publicando Storybook](https://github.com/rocketseat-education/05-design-system/commit/0ecf1544018411388cf2f8033f161d03a94ea7e8)
+
+Nessa aula, vamos começar o processo de publicação do Storybook na Web e para isso utilizaremos algumas ferramentas que nos ajudarão no processo de configuração e publicação da documentação que desenvolvemos.
+
+####################################################################################################
+02. Configurando Changesets: 
+   [Commit: Publicação e manutenção - Configurando Changesets](https://github.com/rocketseat-education/05-design-system/commit/dd5e2ac58b685f5d6c01195342709ff63b5c45ea)
+
+Nessa aula vamos configurar o changesets, uma ferramenta que vai nos ajudar a manter e gerenciar as versões dos nossos pacotes.
+
+####################################################################################################
+03. Cache na Github Actions: 
+   [Commit: Publicação e manutenção - Cache na Github Actions](https://github.com/rocketseat-education/05-design-system/commit/418feec2e0e32ae1b9aee3019f56abf7dc5c89b5)
+
+Agora vamos fazer a configuração do Remote Caching do turbo repo para que os deploys de nossos deploys demorem menos tempo para serem realizados.
+
+####################################################################################################
+04. CI - CD dos pacotes NPM: 
+   [Commit: Publicação e manutenção - CI/CD dos pacotes NPM](https://github.com/rocketseat-education/05-design-system/commit/f30fddd50a249b71fe3fa3b009570312ebbc991e)
+
+Nessa aula vamos configurar o CI/CD para que a publicação no NPM ocorra de forma automatizada.
+
+####################################################################################################
+01. Publicando Storybook: 
+   [Commit: Publicação e manutenção - Publicando Storybook](https://github.com/rocketseat-education/05-design-system/commit/0ecf1544018411388cf2f8033f161d03a94ea7e8)
+
+Nessa aula, vamos começar o processo de publicação do Storybook na Web e para isso utilizaremos algumas ferramentas que nos ajudarão no processo de configuração e publicação da documentação que desenvolvemos.
+
+####################################################################################################
+02. Configurando Changesets: 
+   [Commit: Publicação e manutenção - Configurando Changesets](https://github.com/rocketseat-education/05-design-system/commit/dd5e2ac58b685f5d6c01195342709ff63b5c45ea)
+
+Nessa aula vamos configurar o changesets, uma ferramenta que vai nos ajudar a manter e gerenciar as versões dos nossos pacotes.
+
+####################################################################################################
+03. Cache na Github Actions: 
+   [Commit: Publicação e manutenção - Cache na Github Actions](https://github.com/rocketseat-education/05-design-system/commit/418feec2e0e32ae1b9aee3019f56abf7dc5c89b5)
+
+Agora vamos fazer a configuração do Remote Caching do turbo repo para que os deploys de nossos deploys demorem menos tempo para serem realizados.
+
+####################################################################################################
+04. CI - CD dos pacotes NPM: 
+   [Commit: Publicação e manutenção - CI/CD dos pacotes NPM](https://github.com/rocketseat-education/05-design-system/commit/f30fddd50a249b71fe3fa3b009570312ebbc991e)
+
+Nessa aula vamos configurar o CI/CD para que a publicação no NPM ocorra de forma automatizada.
+
