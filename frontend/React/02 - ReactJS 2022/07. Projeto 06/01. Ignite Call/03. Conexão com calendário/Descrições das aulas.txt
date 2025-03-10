@@ -1,0 +1,222 @@
+####################################################################################################
+01. Pagina de conexao do calendario: 
+   [Commit: Conexão com calendário - Página de conexão do calendário](https://github.com/rocketseat-education/06-ignite-call/commit/46d627c2644aab0c7fe2899d265b552ce0da6887)
+
+Nessa aula vamos criar a próxima página da aplicação, a página em que o usuário vai ter a opção de conectar a agenda.
+
+####################################################################################################
+02. Fluxos de autenticacao no Next: 
+   Nessa aula iremos começar a entender como vai funcionar todo o fluxo de autenticação da nossa aplicação. O protocolo de autenticação que iremos utilizar é o oAuth.
+
+####################################################################################################
+03. Criando oAuth com Google: 
+   Nessa aula iremos fazer as configurações necessárias pelo lado da Google Cloud pra conseguirmos acessar informações do usuário através do login social.
+
+####################################################################################################
+04. Configurando o Next Auth: 
+   [Commit: Conexão com calendário - Configurando o Next Auth](https://github.com/rocketseat-education/06-ignite-call/commit/15f87b4f5fa05cca2fa4fddc81d2d2d203244276)
+
+Nessa aula vamos configurar o NextAuth dentro da nossa aplicação.
+
+Comando de instalação do next-auth:
+`npm install next-auth`
+
+Seu arquivo *[...nextauth].api.ts* deverá ficar assim:
+
+```tsx
+import NextAuth, { NextAuthOptions } from "next-auth";
+import GoogleProvider from "next-auth/providers/google";
+
+export const authOptions: NextAuthOptions = {
+  providers: [
+    GoogleProvider({
+      clientId: process.env.GOOGLE_CLIENT_ID ?? "",
+      clientSecret: process.env.GOOGLE_CLIENT_SECRET ? "",
+    }),
+  ],
+};
+
+export default NextAuth(authOptions);
+```
+
+####################################################################################################
+05. Permissao de acesso ao calendario: 
+   [Commit: Conexão com calendário - Permissão de acesso ao calendário](https://github.com/rocketseat-education/06-ignite-call/commit/618366e8022c936682584fc2302fd8ff41702d16)
+Nessa aula vamos ver sobre as permissões de quando o usuário faz um login social.
+
+No fim dessa aula o seu arquivo *[...nextauth].api.ts* deverá ficar assim:
+
+```tsx
+import NextAuth, { NextAuthOptions } from "next-auth";
+import GoogleProvider from "next-auth/providers/google";
+
+export const authOptions: NextAuthOptions = {
+  providers: [
+    GoogleProvider({
+      clientId: process.env.GOOGLE_CLIENT_ID ?? "",
+      clientSecret: process.env.GOOGLE_CLIENT_SECRET ? "",
+      authorization: {
+        params: {
+          scope: 'https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/calendar'
+        }
+      }
+    }),
+  ],
+};
+
+export default NextAuth(authOptions);
+```
+
+Código só do escopo configurado:
+
+```tsx
+scope: 'https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/calendar'
+```
+
+####################################################################################################
+06. Mensagem de erro e ajustes: 
+   [Commit: Conexão com calendário - Mensagem de erro e ajustes](https://github.com/rocketseat-education/06-ignite-call/commit/6175b1784b776758680b30b4e50847b66f0716b1)
+
+Nessa aula iremos trabalhar com as mensagens de erro caso alguma permissão não tenha sido concedida ou qualquer outro tipo de erro ocorra durante o processo.
+
+####################################################################################################
+07. Estrutura do banco de dados: 
+   [Commit: Conexão com calendário - Estrutura do banco de dados](https://github.com/rocketseat-education/06-ignite-call/commit/fa16a426df8ca7a9c72bfade630787ed546e6ef6)
+
+Nessa aula iremos criar uma estrutura no nosso banco de dados para que ele salve os dados da autenticação de um usuário.
+
+####################################################################################################
+08. Criando Adapter do Prisma: 
+   [Commit: Conexão com calendário - Criando Adapter do Prisma](https://github.com/rocketseat-education/06-ignite-call/commit/511eecae79425a80fa52a9fa37869e4422788343)
+
+Nessa aula nós vamos criar o nosso próprio Adapter do Prisma.
+
+####################################################################################################
+09. Finalizando Adapter do Prisma: 
+   [Commit: Conexão com calendário - Finalizando Adapter do Prisma](https://github.com/rocketseat-education/06-ignite-call/commit/751aa43d616860ff73edf364801265ba36419745)
+
+Nessa aula nós vamos finalizar os outros métodos do Adapter do Prisma que iniciamos na aula anterior.
+
+####################################################################################################
+10. Criando o usuario no adapter: 
+   [Commit: Conexão com calendário - Criando o usuário no adapter](https://github.com/rocketseat-education/06-ignite-call/commit/a0ea8d41fbc9164360b9bf48029f9b691bd494db)
+
+Nessa aula vamos fazer algumas mudanças no nosso código para que o Adapter que criamos receba os nossos cookies com as informações do usuário ou crie novos.
+
+####################################################################################################
+11. Conteudo da sessao do Next Auth: 
+   [Commit: Conexão com calendário - Conteúdo da sessão do Next Auth](https://github.com/rocketseat-education/06-ignite-call/commit/02980f4c245c8d61268a7f99284ef515b5932afe)
+
+Nessa aula iremos criar uma nova função, dentro do callback, para que ela retorne todos os dados na nossa sessão do Next Auth, e não somente nome e e-mail.
+
+####################################################################################################
+01. Pagina de conexao do calendario: 
+   [Commit: Conexão com calendário - Página de conexão do calendário](https://github.com/rocketseat-education/06-ignite-call/commit/46d627c2644aab0c7fe2899d265b552ce0da6887)
+
+Nessa aula vamos criar a próxima página da aplicação, a página em que o usuário vai ter a opção de conectar a agenda.
+
+####################################################################################################
+02. Fluxos de autenticacao no Next: 
+   Nessa aula iremos começar a entender como vai funcionar todo o fluxo de autenticação da nossa aplicação. O protocolo de autenticação que iremos utilizar é o oAuth.
+
+####################################################################################################
+03. Criando oAuth com Google: 
+   Nessa aula iremos fazer as configurações necessárias pelo lado da Google Cloud pra conseguirmos acessar informações do usuário através do login social.
+
+####################################################################################################
+04. Configurando o Next Auth: 
+   [Commit: Conexão com calendário - Configurando o Next Auth](https://github.com/rocketseat-education/06-ignite-call/commit/15f87b4f5fa05cca2fa4fddc81d2d2d203244276)
+
+Nessa aula vamos configurar o NextAuth dentro da nossa aplicação.
+
+Comando de instalação do next-auth:
+`npm install next-auth`
+
+Seu arquivo *[...nextauth].api.ts* deverá ficar assim:
+
+```tsx
+import NextAuth, { NextAuthOptions } from "next-auth";
+import GoogleProvider from "next-auth/providers/google";
+
+export const authOptions: NextAuthOptions = {
+  providers: [
+    GoogleProvider({
+      clientId: process.env.GOOGLE_CLIENT_ID ?? "",
+      clientSecret: process.env.GOOGLE_CLIENT_SECRET ? "",
+    }),
+  ],
+};
+
+export default NextAuth(authOptions);
+```
+
+####################################################################################################
+05. Permissao de acesso ao calendario: 
+   [Commit: Conexão com calendário - Permissão de acesso ao calendário](https://github.com/rocketseat-education/06-ignite-call/commit/618366e8022c936682584fc2302fd8ff41702d16)
+Nessa aula vamos ver sobre as permissões de quando o usuário faz um login social.
+
+No fim dessa aula o seu arquivo *[...nextauth].api.ts* deverá ficar assim:
+
+```tsx
+import NextAuth, { NextAuthOptions } from "next-auth";
+import GoogleProvider from "next-auth/providers/google";
+
+export const authOptions: NextAuthOptions = {
+  providers: [
+    GoogleProvider({
+      clientId: process.env.GOOGLE_CLIENT_ID ?? "",
+      clientSecret: process.env.GOOGLE_CLIENT_SECRET ? "",
+      authorization: {
+        params: {
+          scope: 'https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/calendar'
+        }
+      }
+    }),
+  ],
+};
+
+export default NextAuth(authOptions);
+```
+
+Código só do escopo configurado:
+
+```tsx
+scope: 'https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/calendar'
+```
+
+####################################################################################################
+06. Mensagem de erro e ajustes: 
+   [Commit: Conexão com calendário - Mensagem de erro e ajustes](https://github.com/rocketseat-education/06-ignite-call/commit/6175b1784b776758680b30b4e50847b66f0716b1)
+
+Nessa aula iremos trabalhar com as mensagens de erro caso alguma permissão não tenha sido concedida ou qualquer outro tipo de erro ocorra durante o processo.
+
+####################################################################################################
+07. Estrutura do banco de dados: 
+   [Commit: Conexão com calendário - Estrutura do banco de dados](https://github.com/rocketseat-education/06-ignite-call/commit/fa16a426df8ca7a9c72bfade630787ed546e6ef6)
+
+Nessa aula iremos criar uma estrutura no nosso banco de dados para que ele salve os dados da autenticação de um usuário.
+
+####################################################################################################
+08. Criando Adapter do Prisma: 
+   [Commit: Conexão com calendário - Criando Adapter do Prisma](https://github.com/rocketseat-education/06-ignite-call/commit/511eecae79425a80fa52a9fa37869e4422788343)
+
+Nessa aula nós vamos criar o nosso próprio Adapter do Prisma.
+
+####################################################################################################
+09. Finalizando Adapter do Prisma: 
+   [Commit: Conexão com calendário - Finalizando Adapter do Prisma](https://github.com/rocketseat-education/06-ignite-call/commit/751aa43d616860ff73edf364801265ba36419745)
+
+Nessa aula nós vamos finalizar os outros métodos do Adapter do Prisma que iniciamos na aula anterior.
+
+####################################################################################################
+10. Criando o usuario no adapter: 
+   [Commit: Conexão com calendário - Criando o usuário no adapter](https://github.com/rocketseat-education/06-ignite-call/commit/a0ea8d41fbc9164360b9bf48029f9b691bd494db)
+
+Nessa aula vamos fazer algumas mudanças no nosso código para que o Adapter que criamos receba os nossos cookies com as informações do usuário ou crie novos.
+
+####################################################################################################
+11. Conteudo da sessao do Next Auth: 
+   [Commit: Conexão com calendário - Conteúdo da sessão do Next Auth](https://github.com/rocketseat-education/06-ignite-call/commit/02980f4c245c8d61268a7f99284ef515b5932afe)
+
+Nessa aula iremos criar uma nova função, dentro do callback, para que ela retorne todos os dados na nossa sessão do Next Auth, e não somente nome e e-mail.
+
