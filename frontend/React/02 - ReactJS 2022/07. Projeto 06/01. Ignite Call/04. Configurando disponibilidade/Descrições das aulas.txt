@@ -1,0 +1,136 @@
+####################################################################################################
+01. Pagina de disponibilidade: 
+   [Commit: Configurando disponibilidade - Página de disponibilidade](https://github.com/rocketseat-education/06-ignite-call/commit/9ef8f3bca28011a9dac230071cf14e0026e01b09)
+
+Nessa aula iremos começar a desenvolver a estrutura e a estilização da página de Disponibilidade.
+
+####################################################################################################
+02. Formulario de disponibilidade: 
+   [Commit: Configurando disponibilidade - Formulário de disponibilidade](https://github.com/rocketseat-education/06-ignite-call/commit/e210332405650edec312123fec87ea11e12c07b0)
+
+Nessa aula iremos criar os formulários utilizados entre os intervalos da página de Disponibilidade.
+
+Caminho do utils: src/utils/get-week-days.ts
+
+```tsx
+export function getWeekDays() {
+  const formatter = new Intl.DateTimeFormat("pt-BR", { weekday: "long" });
+
+  return Array.from(Array(7).keys())
+    .map((day) => formatter.format(new Date(Date.UTC(2021, 5, day))))
+    .map((weekDay) => {
+      return weekDay.substring(0, 1).toUpperCase().concat(weekDay.substring(1));
+    });
+}
+```
+
+####################################################################################################
+03. Checkbox com Controller: 
+   [Commit: Configurando disponibilidade - Checkbox com Controller](https://github.com/rocketseat-education/06-ignite-call/commit/17f3a601be5af593bb683a0358adfac6e6808a0a)
+
+Nessa aula iremos aprender a como deixar o checkbox funcional através do React Hook Form.
+
+####################################################################################################
+04. Validacao e transformacao no Zod: 
+   [Commit: Configurando disponibilidade - Validação e transformação no Zod](https://github.com/rocketseat-education/06-ignite-call/commit/8db1510045ddf7aae3f0b5e17f2a5b15528b3d81)
+
+Nessa aula iremos aprender a criar validações e transformações de dados utilizando o Zod.
+
+####################################################################################################
+05. Input e output do Zod: 
+   [Commit: Configurando disponibilidade - Input e output do Zod](https://github.com/rocketseat-education/06-ignite-call/commit/085a0335a405f51490839f6a30c82464ec67c0f2)
+
+Nessa aula iremos converter as horas de início e hora de término em minutos.
+
+Além de aprendermos a utilizar o `z.input` e `z.output` pra representar os dados de entrada e os dados de saída.
+
+Caminho do utils: src/utils/convert-time-string-to-minutes
+
+```tsx
+export function convertTimeStringToMinutes(timeString: string) {
+  const [hours, minutes] = timeString.split(':').map(Number)
+
+  return hours * 60 + minutes
+}
+```
+
+####################################################################################################
+06. Rotas autenticadas no Next: 
+   [Commit: Configurando disponibilidade - Rotas autenticadas no Next.js](https://github.com/rocketseat-education/06-ignite-call/commit/aa6c707d371ba0447016f2c26c89551f60982d50)
+
+Nessa aula iremos persistir todos os dados de disponibilidade do usuário e salvar dentro do banco de dados.
+
+####################################################################################################
+07. Persistindo intervalos: 
+   [Commit: Configurando disponibilidade - Persistindo intervalos](https://github.com/rocketseat-education/06-ignite-call/commit/09836a3f69758ce6e020a9187d0bb50789412acb)
+
+Nessa aula iremos ajustar o nosso código para que ele persista todos os intervalos adicionados pelo usuário e salve dentro do banco de dados.
+
+####################################################################################################
+01. Pagina de disponibilidade: 
+   [Commit: Configurando disponibilidade - Página de disponibilidade](https://github.com/rocketseat-education/06-ignite-call/commit/9ef8f3bca28011a9dac230071cf14e0026e01b09)
+
+Nessa aula iremos começar a desenvolver a estrutura e a estilização da página de Disponibilidade.
+
+####################################################################################################
+02. Formulario de disponibilidade: 
+   [Commit: Configurando disponibilidade - Formulário de disponibilidade](https://github.com/rocketseat-education/06-ignite-call/commit/e210332405650edec312123fec87ea11e12c07b0)
+
+Nessa aula iremos criar os formulários utilizados entre os intervalos da página de Disponibilidade.
+
+Caminho do utils: src/utils/get-week-days.ts
+
+```tsx
+export function getWeekDays() {
+  const formatter = new Intl.DateTimeFormat("pt-BR", { weekday: "long" });
+
+  return Array.from(Array(7).keys())
+    .map((day) => formatter.format(new Date(Date.UTC(2021, 5, day))))
+    .map((weekDay) => {
+      return weekDay.substring(0, 1).toUpperCase().concat(weekDay.substring(1));
+    });
+}
+```
+
+####################################################################################################
+03. Checkbox com Controller: 
+   [Commit: Configurando disponibilidade - Checkbox com Controller](https://github.com/rocketseat-education/06-ignite-call/commit/17f3a601be5af593bb683a0358adfac6e6808a0a)
+
+Nessa aula iremos aprender a como deixar o checkbox funcional através do React Hook Form.
+
+####################################################################################################
+04. Validacao e transformacao no Zod: 
+   [Commit: Configurando disponibilidade - Validação e transformação no Zod](https://github.com/rocketseat-education/06-ignite-call/commit/8db1510045ddf7aae3f0b5e17f2a5b15528b3d81)
+
+Nessa aula iremos aprender a criar validações e transformações de dados utilizando o Zod.
+
+####################################################################################################
+05. Input e output do Zod: 
+   [Commit: Configurando disponibilidade - Input e output do Zod](https://github.com/rocketseat-education/06-ignite-call/commit/085a0335a405f51490839f6a30c82464ec67c0f2)
+
+Nessa aula iremos converter as horas de início e hora de término em minutos.
+
+Além de aprendermos a utilizar o `z.input` e `z.output` pra representar os dados de entrada e os dados de saída.
+
+Caminho do utils: src/utils/convert-time-string-to-minutes
+
+```tsx
+export function convertTimeStringToMinutes(timeString: string) {
+  const [hours, minutes] = timeString.split(':').map(Number)
+
+  return hours * 60 + minutes
+}
+```
+
+####################################################################################################
+06. Rotas autenticadas no Next: 
+   [Commit: Configurando disponibilidade - Rotas autenticadas no Next.js](https://github.com/rocketseat-education/06-ignite-call/commit/aa6c707d371ba0447016f2c26c89551f60982d50)
+
+Nessa aula iremos persistir todos os dados de disponibilidade do usuário e salvar dentro do banco de dados.
+
+####################################################################################################
+07. Persistindo intervalos: 
+   [Commit: Configurando disponibilidade - Persistindo intervalos](https://github.com/rocketseat-education/06-ignite-call/commit/09836a3f69758ce6e020a9187d0bb50789412acb)
+
+Nessa aula iremos ajustar o nosso código para que ele persista todos os intervalos adicionados pelo usuário e salve dentro do banco de dados.
+
